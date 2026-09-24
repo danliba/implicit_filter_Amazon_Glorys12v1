@@ -5,7 +5,7 @@ This note answers a question that comes up whenever someone sees that
 [`implicit_filter`](https://github.com/FESOM/implicit_filter) package:
 
 > Is it using the filter with the existing option to work directly on the
-> velocity points, or did it code something new itself (which might be tricky)?
+> velocity points?
 
 Short answer: **the package has no option to filter on the NEMO velocity
 points, so this part is new code.** It is not, however, a new *method* — only a
