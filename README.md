@@ -13,6 +13,8 @@ components separately produces a spurious one-cell convergence line along every
 coastline (see [REPORT.md](REPORT.md) §"v1").
 
 **Results, all 43 figures and the configuration recommendation: [REPORT.md](REPORT.md).**
+**Why this repository implements its own filter rather than calling the package's
+velocity routine: [DESIGN_RATIONALE.md](DESIGN_RATIONALE.md).**
 Start with [`notebooks/v0.Implicit_filtering_ARP.ipynb`](notebooks/v0.Implicit_filtering_ARP.ipynb)
 for a walkthrough of the method and the GPU solver.
 

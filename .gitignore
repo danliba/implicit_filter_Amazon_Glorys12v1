@@ -31,3 +31,6 @@ __pycache__/
 
 # Internal chat handoff, not part of the published project
 CHAT_HANDOFF.md
+
+# Performance-comparison rerun, not part of the published results
+output_perf/
