@@ -126,6 +126,23 @@ and cannot be repaired by any diagonal weight. The geometry of the grid is not
 the problem — the last row shows the curvilinear, stretched metrics symmetrise
 to machine precision once those two issues are removed.
 
+The Jacobi path is not a fallback either. Asked to filter this domain with
+`set_preconditioner('jacobi')`, the package's solver diverges:
+
+```
+SolverNotConvergedError: CG did not reach the requested tolerance
+(relative residual 5.325e+00 > 1.000e-06). Stiff configurations ... need
+the multigrid preconditioner: set_preconditioner('vcycle')
+```
+
+A relative residual above one means the iteration moved away from the solution.
+That is the expected behaviour of conjugate gradients on a non-symmetric
+operator, and it is consistent with the asymmetry measured above: CG's
+convergence guarantee requires symmetric positive definiteness, which this
+stencil does not have on this grid. Both of the package's preconditioner
+options are therefore unavailable here — one refuses the grid, the other
+diverges on it.
+
 The operator in this repository is symmetric to 9.81e-17 as released (§4), so
 AMG preconditioning is directly applicable to it. That is a performance
 opportunity, not a correctness concern: a preconditioner changes the path to
