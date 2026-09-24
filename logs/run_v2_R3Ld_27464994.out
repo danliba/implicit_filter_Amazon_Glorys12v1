@@ -1,0 +1,116 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+[R3Ld] level  0 nwet= 847626 its= 484 read=  5.5s filter= 25.08s
+[R3Ld] level  1 nwet= 847626 its= 481 read=  0.2s filter= 21.76s
+[R3Ld] level  2 nwet= 847626 its= 478 read=  0.2s filter= 21.59s
+[R3Ld] level  3 nwet= 847626 its= 476 read=  0.2s filter= 21.54s
+[R3Ld] level  4 nwet= 847626 its= 472 read=  0.2s filter= 21.33s
+[R3Ld] level  5 nwet= 847626 its= 469 read=  0.2s filter= 21.20s
+[R3Ld] level  6 nwet= 837856 its= 464 read=  0.2s filter= 20.76s
+[R3Ld] level  7 nwet= 835726 its= 460 read=  0.2s filter= 20.51s
+[R3Ld] level  8 nwet= 834629 its= 456 read=  0.2s filter= 20.35s
+[R3Ld] level  9 nwet= 832814 its= 452 read=  0.2s filter= 20.11s
+[R3Ld] level 10 nwet= 830295 its= 448 read=  0.2s filter= 19.88s
+[R3Ld] level 11 nwet= 828410 its= 445 read=  0.2s filter= 19.68s
+[R3Ld] level 12 nwet= 825607 its= 442 read=  0.2s filter= 19.49s
+[R3Ld] level 13 nwet= 822409 its= 439 read=  0.2s filter= 19.29s
+[R3Ld] level 14 nwet= 819359 its= 438 read=  0.2s filter= 19.17s
+[R3Ld] level 15 nwet= 816484 its= 436 read=  0.2s filter= 19.05s
+[R3Ld] level 16 nwet= 812904 its= 435 read=  0.2s filter= 18.90s
+[R3Ld] level 17 nwet= 809648 its= 436 read=  0.2s filter= 18.91s
+[R3Ld] level 18 nwet= 806262 its= 436 read=  0.2s filter= 18.76s
+[R3Ld] level 19 nwet= 803192 its= 435 read=  0.2s filter= 18.69s
+[R3Ld] level 20 nwet= 799866 its= 435 read=  0.2s filter= 18.59s
+[R3Ld] level 21 nwet= 796867 its= 434 read=  0.2s filter= 18.48s
+[R3Ld] level 22 nwet= 794316 its= 436 read=  0.2s filter= 18.51s
+[R3Ld] level 23 nwet= 792358 its= 434 read=  0.2s filter= 18.36s
+[R3Ld] level 24 nwet= 790502 its= 434 read=  0.2s filter= 18.32s
+[R3Ld] level 25 nwet= 788517 its= 434 read=  0.2s filter= 18.29s
+[R3Ld] level 26 nwet= 786343 its= 432 read=  0.2s filter= 18.16s
+[R3Ld] level 27 nwet= 784714 its= 432 read=  0.2s filter= 18.10s
+[R3Ld] level 28 nwet= 783112 its= 430 read=  0.2s filter= 18.00s
+[R3Ld] level 29 nwet= 781549 its= 429 read=  0.2s filter= 17.94s
+[R3Ld] level 30 nwet= 779665 its= 429 read=  0.2s filter= 17.90s
+[R3Ld] level 31 nwet= 777496 its= 429 read=  0.2s filter= 17.89s
+[R3Ld] level 32 nwet= 774815 its= 428 read=  0.2s filter= 17.75s
+[R3Ld] level 33 nwet= 771729 its= 428 read=  0.2s filter= 17.70s
+[R3Ld] level 34 nwet= 767399 its= 428 read=  0.2s filter= 17.58s
+[R3Ld] level 35 nwet= 762323 its= 427 read=  0.2s filter= 17.41s
+[R3Ld] level 36 nwet= 755878 its= 428 read=  0.2s filter= 17.28s
+[R3Ld] level 37 nwet= 748116 its= 428 read=  0.2s filter= 17.12s
+[R3Ld] level 38 nwet= 739280 its= 429 read=  0.2s filter= 16.96s
+[R3Ld] level 39 nwet= 728945 its= 430 read=  0.2s filter= 16.78s
+[R3Ld] level 40 nwet= 716801 its= 431 read=  0.2s filter= 16.55s
+[R3Ld] level 41 nwet= 701972 its= 434 read=  0.2s filter= 16.30s
+[R3Ld] level 42 nwet= 680286 its= 436 read=  0.2s filter= 15.87s
+[R3Ld] level 43 nwet= 646377 its= 439 read=  0.2s filter= 15.20s
+[R3Ld] level 44 nwet= 587852 its= 441 read=  0.2s filter= 13.88s
+[R3Ld] level 45 nwet= 504806 its= 443 read=  0.2s filter= 11.98s
+[R3Ld] level 46 nwet= 409268 its= 446 read=  0.2s filter=  9.81s
+[R3Ld] level 47 nwet= 295689 its= 444 read=  0.2s filter=  7.10s
+[R3Ld] level 48 nwet= 165136 its= 410 read=  0.2s filter=  3.70s
+[R3Ld] level 49 nwet=      0 its=   0 read=  0.2s filter=  0.05s
+[R3Ld] t= 0 w_rms(100m) filt/orig = 5.16e-06/2.84e-05 surf w_rms filt/orig = 1.50e-07/1.97e-07 btcorr du_rms=1.88e-03 du_max=1.64e-01 dv_max=8.48e-02
+[R3Ld] t= 1 w_rms(100m) filt/orig = 5.01e-06/2.80e-05 surf w_rms filt/orig = 1.71e-07/2.12e-07 btcorr du_rms=1.91e-03 du_max=1.56e-01 dv_max=8.48e-02
+[R3Ld] t= 2 w_rms(100m) filt/orig = 5.65e-06/2.84e-05 surf w_rms filt/orig = 1.78e-07/2.13e-07 btcorr du_rms=2.43e-03 du_max=1.31e-01 dv_max=8.45e-02
+[R3Ld] t= 3 w_rms(100m) filt/orig = 5.71e-06/2.87e-05 surf w_rms filt/orig = 1.68e-07/2.14e-07 btcorr du_rms=1.97e-03 du_max=1.20e-01 dv_max=8.20e-02
+[R3Ld] t= 4 w_rms(100m) filt/orig = 5.55e-06/2.87e-05 surf w_rms filt/orig = 1.83e-07/2.26e-07 btcorr du_rms=1.82e-03 du_max=1.09e-01 dv_max=7.94e-02
+[R3Ld] t= 5 w_rms(100m) filt/orig = 5.47e-06/2.84e-05 surf w_rms filt/orig = 1.46e-07/1.86e-07 btcorr du_rms=1.81e-03 du_max=9.47e-02 dv_max=7.69e-02
+[R3Ld] t= 6 w_rms(100m) filt/orig = 5.86e-06/2.86e-05 surf w_rms filt/orig = 1.62e-07/2.04e-07 btcorr du_rms=1.92e-03 du_max=8.98e-02 dv_max=9.73e-02
+[R3Ld] t= 7 w_rms(100m) filt/orig = 6.40e-06/2.93e-05 surf w_rms filt/orig = 1.95e-07/2.34e-07 btcorr du_rms=1.85e-03 du_max=9.69e-02 dv_max=7.28e-02
+[R3Ld] t= 8 w_rms(100m) filt/orig = 6.25e-06/2.92e-05 surf w_rms filt/orig = 1.72e-07/2.30e-07 btcorr du_rms=1.74e-03 du_max=1.04e-01 dv_max=7.47e-02
+[R3Ld] t= 9 w_rms(100m) filt/orig = 5.55e-06/2.86e-05 surf w_rms filt/orig = 2.15e-07/2.47e-07 btcorr du_rms=1.57e-03 du_max=1.04e-01 dv_max=7.81e-02
+[R3Ld] t=10 w_rms(100m) filt/orig = 5.39e-06/2.83e-05 surf w_rms filt/orig = 1.88e-07/2.29e-07 btcorr du_rms=1.87e-03 du_max=1.06e-01 dv_max=8.03e-02
+[R3Ld] t=11 w_rms(100m) filt/orig = 5.59e-06/2.83e-05 surf w_rms filt/orig = 1.99e-07/2.31e-07 btcorr du_rms=1.74e-03 du_max=1.12e-01 dv_max=8.26e-02
+[R3Ld] t=12 w_rms(100m) filt/orig = 5.50e-06/2.80e-05 surf w_rms filt/orig = 1.39e-07/1.88e-07 btcorr du_rms=1.66e-03 du_max=1.12e-01 dv_max=8.35e-02
+[R3Ld] t=13 w_rms(100m) filt/orig = 5.39e-06/2.80e-05 surf w_rms filt/orig = 1.64e-07/2.04e-07 btcorr du_rms=1.61e-03 du_max=1.08e-01 dv_max=8.45e-02
+[R3Ld] t=14 w_rms(100m) filt/orig = 5.21e-06/2.75e-05 surf w_rms filt/orig = 1.42e-07/1.88e-07 btcorr du_rms=1.67e-03 du_max=1.14e-01 dv_max=8.43e-02
+[R3Ld] t=15 w_rms(100m) filt/orig = 5.55e-06/2.80e-05 surf w_rms filt/orig = 1.60e-07/2.11e-07 btcorr du_rms=1.66e-03 du_max=1.13e-01 dv_max=8.41e-02
+[R3Ld] t=16 w_rms(100m) filt/orig = 5.55e-06/2.77e-05 surf w_rms filt/orig = 1.36e-07/1.83e-07 btcorr du_rms=1.70e-03 du_max=1.17e-01 dv_max=8.23e-02
+[R3Ld] t=17 w_rms(100m) filt/orig = 5.47e-06/2.73e-05 surf w_rms filt/orig = 2.12e-07/2.45e-07 btcorr du_rms=1.69e-03 du_max=1.13e-01 dv_max=9.32e-02
+[R3Ld] t=18 w_rms(100m) filt/orig = 5.31e-06/2.76e-05 surf w_rms filt/orig = 1.22e-07/1.68e-07 btcorr du_rms=1.65e-03 du_max=1.14e-01 dv_max=1.24e-01
+[R3Ld] t=19 w_rms(100m) filt/orig = 5.60e-06/2.75e-05 surf w_rms filt/orig = 1.60e-07/2.15e-07 btcorr du_rms=1.86e-03 du_max=1.13e-01 dv_max=1.46e-01
+[R3Ld] t=20 w_rms(100m) filt/orig = 6.04e-06/2.81e-05 surf w_rms filt/orig = 1.50e-07/2.03e-07 btcorr du_rms=2.01e-03 du_max=1.03e-01 dv_max=1.62e-01
+[R3Ld] t=21 w_rms(100m) filt/orig = 6.08e-06/2.83e-05 surf w_rms filt/orig = 1.82e-07/2.28e-07 btcorr du_rms=1.85e-03 du_max=9.89e-02 dv_max=1.39e-01
+[R3Ld] t=22 w_rms(100m) filt/orig = 6.01e-06/2.85e-05 surf w_rms filt/orig = 1.21e-07/1.67e-07 btcorr du_rms=1.68e-03 du_max=8.26e-02 dv_max=1.18e-01
+[R3Ld] t=23 w_rms(100m) filt/orig = 5.98e-06/2.95e-05 surf w_rms filt/orig = 2.01e-07/2.41e-07 btcorr du_rms=1.65e-03 du_max=8.13e-02 dv_max=1.09e-01
+[R3Ld] t=24 w_rms(100m) filt/orig = 5.81e-06/3.02e-05 surf w_rms filt/orig = 1.74e-07/2.16e-07 btcorr du_rms=1.61e-03 du_max=8.82e-02 dv_max=9.40e-02
+[R3Ld] t=25 w_rms(100m) filt/orig = 5.73e-06/2.98e-05 surf w_rms filt/orig = 1.73e-07/2.17e-07 btcorr du_rms=1.66e-03 du_max=8.07e-02 dv_max=9.29e-02
+[R3Ld] t=26 w_rms(100m) filt/orig = 6.36e-06/2.99e-05 surf w_rms filt/orig = 2.30e-07/2.71e-07 btcorr du_rms=1.97e-03 du_max=8.64e-02 dv_max=1.18e-01
+[R3Ld] t=27 w_rms(100m) filt/orig = 6.49e-06/3.01e-05 surf w_rms filt/orig = 2.02e-07/2.46e-07 btcorr du_rms=2.07e-03 du_max=7.97e-02 dv_max=1.20e-01
+[R3Ld] t=28 w_rms(100m) filt/orig = 6.03e-06/2.98e-05 surf w_rms filt/orig = 1.65e-07/2.13e-07 btcorr du_rms=1.74e-03 du_max=8.48e-02 dv_max=1.11e-01
+[R3Ld] t=29 w_rms(100m) filt/orig = 5.62e-06/2.92e-05 surf w_rms filt/orig = 1.84e-07/2.32e-07 btcorr du_rms=1.72e-03 du_max=1.20e-01 dv_max=1.14e-01
+[R3Ld] t=30 w_rms(100m) filt/orig = 5.73e-06/2.96e-05 surf w_rms filt/orig = 2.12e-07/2.50e-07 btcorr du_rms=1.76e-03 du_max=1.08e-01 dv_max=1.33e-01
+[R3Ld] DONE total 24.2 min
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27464994
+* JobName          : v2_R3Ld                                           
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50163 (1)                                                
+* Submit date      : 2026-09-15T08:44:03
+* Start time       : 2026-09-15T08:44:43
+* End time         : 2026-09-15T09:09:11
+* Elapsed time     : 00:24:28 (Timelimit=04:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/
+*                    run_filter.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch            0.067
+* extern | extern           0.067                       ()
+* ------------------------------------------------------------------------------
+

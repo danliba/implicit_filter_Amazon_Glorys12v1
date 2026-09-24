@@ -1,0 +1,45 @@
+0 {"max_abs_diff_vovecrtz": 1.860670915954099e-09, "rms_diff_vovecrtz": 2.054066179793639e-11, "median_rel_diff": 2.0610489275122046e-08, "p999_rel_diff": 5.7418401792028895e-08, "max_abs_diff_vovecrtz_fixed": 8.762984365917603e-10, "n_nan_stored_in_wet": 0, "n_finite_stored_on_land": 0, "w_floor_max_abs": 4.412398346004265e-10, "w_floor_rms": 7.36080976314634e-12, "w_bottom_cell_top_rms": 0.00028857767419534835, "continuity_residual_max_abs_vovecrtz": 3.6398235667425366e-09, "continuity_residual_rms_vovecrtz_fixed": 3.4598006757109876e-05, "surface_w_rms": 0.0008824005946507503, "surface_w_maxabs": 0.03982425853610039, "surface_w_mean": 5.574064012516728e-07, "surface_w_fixed_maxabs": 0.0}
+1 {"max_abs_diff_vovecrtz": 1.861633333599677e-09, "rms_diff_vovecrtz": 2.0291125372841417e-11, "median_rel_diff": 2.0600193735782963e-08, "p999_rel_diff": 5.741560944891291e-08, "max_abs_diff_vovecrtz_fixed": 8.384563529584277e-10, "n_nan_stored_in_wet": 0, "n_finite_stored_on_land": 0, "w_floor_max_abs": 3.392880715963331e-10, "w_floor_rms": 7.340871784590396e-12, "w_bottom_cell_top_rms": 0.00028871913995477124, "continuity_residual_max_abs_vovecrtz": 3.6026202515600575e-09, "continuity_residual_rms_vovecrtz_fixed": 3.449571886871433e-05, "surface_w_rms": 0.0008799006947546919, "surface_w_maxabs": 0.04023463651537895, "surface_w_mean": 3.766433202192403e-07, "surface_w_fixed_maxabs": 0.0}
+2 {"max_abs_diff_vovecrtz": 1.8611496510612113e-09, "rms_diff_vovecrtz": 2.0285313684531245e-11, "median_rel_diff": 2.0598630248996028e-08, "p999_rel_diff": 5.742589621631624e-08, "max_abs_diff_vovecrtz_fixed": 8.695203237985005e-10, "n_nan_stored_in_wet": 0, "n_finite_stored_on_land": 0, "w_floor_max_abs": 3.8163619660303016e-10, "w_floor_rms": 7.319326644846173e-12, "w_bottom_cell_top_rms": 0.0002893046254246145, "continuity_residual_max_abs_vovecrtz": 3.443237884719004e-09, "continuity_residual_rms_vovecrtz_fixed": 3.451483378211879e-05, "surface_w_rms": 0.0008802812561539438, "surface_w_maxabs": 0.040473081171512604, "surface_w_mean": 5.01577089191749e-07, "surface_w_fixed_maxabs": 0.0}
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:69: UserWarning: WARNING: missing_value not used since it
+cannot be safely cast to variable data type
+  s0o = wo[0, 0].filled(np.nan)[m.tmask[0]]
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:69: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  s0o = wo[0, 0].filled(np.nan)[m.tmask[0]]
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:69: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  s0o = wo[0, 0].filled(np.nan)[m.tmask[0]]
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:82: UserWarning: WARNING: missing_value not used since it
+cannot be safely cast to variable data type
+  a0 = ds[name][:, 0, js, is_].filled(np.nan).astype(np.float64)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:82: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  a0 = ds[name][:, 0, js, is_].filled(np.nan).astype(np.float64)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:82: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  a0 = ds[name][:, 0, js, is_].filled(np.nan).astype(np.float64)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:84: UserWarning: WARNING: missing_value not used since it
+cannot be safely cast to variable data type
+  a = ds[name][:, k, js, is_].filled(np.nan).astype(np.float64)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:84: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  a = ds[name][:, k, js, is_].filled(np.nan).astype(np.float64)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:84: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  a = ds[name][:, k, js, is_].filled(np.nan).astype(np.float64)
+ORIG {'vovecrtz': [4.9459132649440384e-05, 7.883849176760675e-05, 7.500637367089327e-05], 'w_top_down': [4.948016570431129e-05, 7.885121844507055e-05, 7.501517976125887e-05]}
+W1.5 {'vovecrtz': [0.0008801965822939601, 0.0007963917481798404, 0.0007269079617101211], 'w_top_down': [7.776472778209371e-05, 0.0002654077386192748, 0.0003666375983765418], 'vovecrtz_fixed': [6.960963169919583e-05, 0.00021364695986906095, 0.00031555058855662997]}
+W2.0 {'vovecrtz': [0.0008091828833615964, 0.0007337095613713463, 0.0006761249365198649], 'w_top_down': [7.594321899591495e-05, 0.00024774327375388797, 0.00033015587867107736], 'vovecrtz_fixed': [6.641231412127885e-05, 0.0002000338424751682, 0.00029529140441687227]}
+W2.5 {'vovecrtz': [0.0007437198574486982, 0.0006762549131246562, 0.0006282755266029192], 'w_top_down': [7.370825914738512e-05, 0.00023030935111447858, 0.0002971530982713092], 'vovecrtz_fixed': [6.279270995642873e-05, 0.00018590228228663815, 0.0002742734150910656]}
+R2Ld {'vovecrtz': [0.0009615356212170486, 0.0008678813548018556, 0.0007748546693061581], 'w_top_down': [8.020487506045222e-05, 0.0002767050743136389, 0.00041891473598868194], 'vovecrtz_fixed': [6.791387515429206e-05, 0.00022403372766773312, 0.0003345808150809242]}
+R3Ld {'vovecrtz': [0.0008592548934347357, 0.0007722344644063084, 0.0006902543958290904], 'w_top_down': [7.438684074306966e-05, 0.0002505353407380002, 0.0003799448214092419], 'vovecrtz_fixed': [6.0481832661701435e-05, 0.00020334639167388644, 0.00030601197614689316]}
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:112: UserWarning: WARNING: missing_value not used since it
+cannot be safely cast to variable data type
+  wo1 = netCDF4.Dataset(C.path("W", "ORIG"))["vovecrtz"][0, :, js, is_].filled(np.nan).astype(float)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:112: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  wo1 = netCDF4.Dataset(C.path("W", "ORIG"))["vovecrtz"][0, :, js, is_].filled(np.nan).astype(float)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/spectra_divergence/w_check.py:112: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  wo1 = netCDF4.Dataset(C.path("W", "ORIG"))["vovecrtz"][0, :, js, is_].filled(np.nan).astype(float)

@@ -1,0 +1,144 @@
+{
+ "lat2N_ORIG_mean_speed_shelf_H<200": 0.5109930340877571,
+ "lat2N_W1.5_mean_speed_shelf_H<200": 0.5314372991920542,
+ "lat2N_W2.0_mean_speed_shelf_H<200": 0.530587022440057,
+ "lat2N_W2.5_mean_speed_shelf_H<200": 0.5280726907626846,
+ "lat2N_R2Ld_mean_speed_shelf_H<200": 0.514260715520835,
+ "lat2N_R3Ld_mean_speed_shelf_H<200": 0.4872496623663013,
+ "lat5N_ORIG_mean_speed_shelf_H<200": 0.7609448335162103,
+ "lat5N_W1.5_mean_speed_shelf_H<200": 0.7597683683205722,
+ "lat5N_W2.0_mean_speed_shelf_H<200": 0.7579669816869955,
+ "lat5N_W2.5_mean_speed_shelf_H<200": 0.753164736708553,
+ "lat5N_R2Ld_mean_speed_shelf_H<200": 0.7418596795512086,
+ "lat5N_R3Ld_mean_speed_shelf_H<200": 0.7119913124895223,
+ "depth454m_W2.0_slope_H<3000_speed_ratio": 0.7997827462843222,
+ "depth454m_W2.0_deep_H>3000_speed_ratio": 0.7525210875312065,
+ "depth454m_R2Ld_slope_H<3000_speed_ratio": 0.5695822168083933,
+ "depth454m_R2Ld_deep_H>3000_speed_ratio": 0.5409369334953075,
+ "depth1062m_W2.0_slope_H<3000_speed_ratio": 0.6181750657054463,
+ "depth1062m_W2.0_deep_H>3000_speed_ratio": 0.7390428275226,
+ "depth1062m_R2Ld_slope_H<3000_speed_ratio": 0.37820639912332993,
+ "depth1062m_R2Ld_deep_H>3000_speed_ratio": 0.5411310409501972,
+ "W_boundary": {
+  "mouth_20m_ORIG": {
+   "rms_first_wet_cell_m_day": 5.810982700247665,
+   "rms_cells_3to10_m_day": 13.357745606574836,
+   "rms_box_m_day": 11.484480771467162
+  },
+  "mouth_20m_W1.5": {
+   "rms_first_wet_cell_m_day": 1.4272707750447662,
+   "rms_cells_3to10_m_day": 1.8408499170511896,
+   "rms_box_m_day": 1.8247089436477597
+  },
+  "mouth_20m_W2.0": {
+   "rms_first_wet_cell_m_day": 1.0721445389527502,
+   "rms_cells_3to10_m_day": 1.397649057379115,
+   "rms_box_m_day": 1.3945259163127661
+  },
+  "mouth_20m_W2.5": {
+   "rms_first_wet_cell_m_day": 0.8207537021211901,
+   "rms_cells_3to10_m_day": 1.1075389508230795,
+   "rms_box_m_day": 1.1020729463008414
+  },
+  "mouth_20m_R2Ld": {
+   "rms_first_wet_cell_m_day": 0.5387519619079822,
+   "rms_cells_3to10_m_day": 0.7747292822940804,
+   "rms_box_m_day": 0.7558493193435899
+  },
+  "mouth_20m_R3Ld": {
+   "rms_first_wet_cell_m_day": 0.3087295479179515,
+   "rms_cells_3to10_m_day": 0.4850522948329116,
+   "rms_box_m_day": 0.4619743675501856
+  },
+  "shelf_51m_ORIG": {
+   "rms_first_wet_cell_m_day": 23.207185022065556,
+   "rms_cells_3to10_m_day": 16.845444067523403,
+   "rms_box_m_day": 10.586193693570658
+  },
+  "shelf_51m_W1.5": {
+   "rms_first_wet_cell_m_day": 3.3992670731777745,
+   "rms_cells_3to10_m_day": 3.4119974656783545,
+   "rms_box_m_day": 2.2663388464204735
+  },
+  "shelf_51m_W2.0": {
+   "rms_first_wet_cell_m_day": 2.5946626271092663,
+   "rms_cells_3to10_m_day": 2.6986531509202365,
+   "rms_box_m_day": 1.8570362506263483
+  },
+  "shelf_51m_W2.5": {
+   "rms_first_wet_cell_m_day": 2.1203943587682668,
+   "rms_cells_3to10_m_day": 2.2142544428605886,
+   "rms_box_m_day": 1.572416588057533
+  },
+  "shelf_51m_R2Ld": {
+   "rms_first_wet_cell_m_day": 1.801533342904499,
+   "rms_cells_3to10_m_day": 1.6146187651149615,
+   "rms_box_m_day": 1.1923095239192056
+  },
+  "shelf_51m_R3Ld": {
+   "rms_first_wet_cell_m_day": 1.2282310441868471,
+   "rms_cells_3to10_m_day": 1.0357347638498076,
+   "rms_box_m_day": 0.7988897023457899
+  },
+  "mouth_51m_ORIG": {
+   "rms_first_wet_cell_m_day": 24.611490187563618,
+   "rms_cells_3to10_m_day": 22.725943871329157,
+   "rms_box_m_day": 21.796949672976293
+  },
+  "mouth_51m_W1.5": {
+   "rms_first_wet_cell_m_day": 2.73451414897303,
+   "rms_cells_3to10_m_day": 3.7503116119381787,
+   "rms_box_m_day": 3.206212407251329
+  },
+  "mouth_51m_W2.0": {
+   "rms_first_wet_cell_m_day": 1.98355794835111,
+   "rms_cells_3to10_m_day": 2.765556610251774,
+   "rms_box_m_day": 2.3598596515270716
+  },
+  "mouth_51m_W2.5": {
+   "rms_first_wet_cell_m_day": 1.5515622312848778,
+   "rms_cells_3to10_m_day": 2.1106230847892014,
+   "rms_box_m_day": 1.8161773070551457
+  },
+  "mouth_51m_R2Ld": {
+   "rms_first_wet_cell_m_day": 1.1411870029168527,
+   "rms_cells_3to10_m_day": 1.322214438359349,
+   "rms_box_m_day": 1.197883794116119
+  },
+  "mouth_51m_R3Ld": {
+   "rms_first_wet_cell_m_day": 0.7659301818194548,
+   "rms_cells_3to10_m_day": 0.6925534758390055,
+   "rms_box_m_day": 0.6916504776473538
+  },
+  "shelf_203m_ORIG": {
+   "rms_first_wet_cell_m_day": 19.365897741403536,
+   "rms_cells_3to10_m_day": 10.491814429338314,
+   "rms_box_m_day": 7.183259761219477
+  },
+  "shelf_203m_W1.5": {
+   "rms_first_wet_cell_m_day": 3.2097227817450107,
+   "rms_cells_3to10_m_day": 2.8910388498473307,
+   "rms_box_m_day": 2.673423445373531
+  },
+  "shelf_203m_W2.0": {
+   "rms_first_wet_cell_m_day": 2.4459962797450476,
+   "rms_cells_3to10_m_day": 2.264019688506116,
+   "rms_box_m_day": 2.247846511094329
+  },
+  "shelf_203m_W2.5": {
+   "rms_first_wet_cell_m_day": 1.9371638430383489,
+   "rms_cells_3to10_m_day": 1.8175759520255022,
+   "rms_box_m_day": 1.9175071123741052
+  },
+  "shelf_203m_R2Ld": {
+   "rms_first_wet_cell_m_day": 1.2843768718214448,
+   "rms_cells_3to10_m_day": 1.209396645077479,
+   "rms_box_m_day": 1.3399429642158758
+  },
+  "shelf_203m_R3Ld": {
+   "rms_first_wet_cell_m_day": 0.8057924276967895,
+   "rms_cells_3to10_m_day": 0.762820668739123,
+   "rms_box_m_day": 0.8883812462539888
+  }
+ }
+}

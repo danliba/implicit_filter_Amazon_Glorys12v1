@@ -1,0 +1,27 @@
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/nbc_energy/w_section.py:31: RuntimeWarning: Mean of empty slice
+  mean[c] = np.nanmean(w, 0)
+{
+ "lon": -44.0,
+ "units": "m/day, positive upward",
+ "ORIG": {
+  "rms_mean": 6.405059633531246,
+  "rms_daily": 11.736694751504508,
+  "corr_with_ORIG": 1.0,
+  "max_up": 71.8073946934554,
+  "max_down": -51.70378369249163
+ },
+ "W2.0": {
+  "rms_mean": 1.7359701979739919,
+  "rms_daily": 2.9444730345742713,
+  "corr_with_ORIG": 0.47658114357739534,
+  "max_up": 8.879021613768511,
+  "max_down": -4.807522867333553
+ },
+ "R2Ld": {
+  "rms_mean": 0.9880494037232926,
+  "rms_daily": 1.655135381245195,
+  "corr_with_ORIG": 0.40095085650855183,
+  "max_up": 5.861393666184027,
+  "max_down": -2.283347523846333
+ }
+}

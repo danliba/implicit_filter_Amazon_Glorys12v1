@@ -1,0 +1,82 @@
+sh: getfattr: command not found
+sh: getfattr: command not found
+sh: getfattr: command not found
+EOS check (expect ~1041.83): 1041.8332618661643
+max |H - (gdepw0[mb-1]+e3t_ps)| = 1.0573584946498613
+  votemper day 1/31
+  votemper day 2/31
+  votemper day 3/31
+  votemper day 4/31
+  votemper day 5/31
+  votemper day 6/31
+  votemper day 7/31
+  votemper day 8/31
+  votemper day 9/31
+  votemper day 10/31
+  votemper day 11/31
+  votemper day 12/31
+  votemper day 13/31
+  votemper day 14/31
+  votemper day 15/31
+  votemper day 16/31
+  votemper day 17/31
+  votemper day 18/31
+  votemper day 19/31
+  votemper day 20/31
+  votemper day 21/31
+  votemper day 22/31
+  votemper day 23/31
+  votemper day 24/31
+  votemper day 25/31
+  votemper day 26/31
+  votemper day 27/31
+  votemper day 28/31
+  votemper day 29/31
+  votemper day 30/31
+  votemper day 31/31
+sh: getfattr: command not found
+  vosaline day 1/31
+  vosaline day 2/31
+  vosaline day 3/31
+  vosaline day 4/31
+  vosaline day 5/31
+  vosaline day 6/31
+  vosaline day 7/31
+  vosaline day 8/31
+  vosaline day 9/31
+  vosaline day 10/31
+  vosaline day 11/31
+  vosaline day 12/31
+  vosaline day 13/31
+  vosaline day 14/31
+  vosaline day 15/31
+  vosaline day 16/31
+  vosaline day 17/31
+  vosaline day 18/31
+  vosaline day 19/31
+  vosaline day 20/31
+  vosaline day 21/31
+  vosaline day 22/31
+  vosaline day 23/31
+  vosaline day 24/31
+  vosaline day 25/31
+  vosaline day 26/31
+  vosaline day 27/31
+  vosaline day 28/31
+  vosaline day 29/31
+  vosaline day 30/31
+  vosaline day 31/31
+means done 17s
+N2 done 19s
+Ld range 14.6 - 261.8 km, filled c1 range 1.02 - 3.25 m/s
+lat   median Ld_raw [km]  median Ld [km]  median c1 [m/s]  (lon -60..-20)
+  0N       244.2           237.1          2.67
+  5N       203.5           195.9          2.61
+ 10N       106.3           106.2          2.69
+ 15N        71.8            71.8          2.72
+ 20N        52.3            52.3          2.60
+ 25N        41.1            41.1          2.53
+ 30N        33.0            33.0          2.39
+WKB/eigen c1 ratio over 3000 random deep columns: median 1.049, mean 1.034, 5-95% [0.876, 1.163]
+wrote /work/bk1450/b383184/Amazon/Mercator/implicit_run/rossby/rossby_radius_T.nc
+done 23s

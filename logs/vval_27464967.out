@@ -1,0 +1,45 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+level 0: commutation residual 4.62e-05, rms div filt/orig 0.259, its 185
+level 22: commutation residual 5.42e-05, rms div filt/orig 0.204, its 159
+3D filter time 32.545963287353516
+barotropic correction time 6.590667247772217 {'cg_info': (0, 0), 'du_rms': 0.001903207476446214, 'du_max': 0.11973980292436683, 'dv_rms': 0.0016825042856136788, 'dv_max': 0.08855518857994792, 'res_rms_before': 0.00011469602771961716}
+du max at 469 0 -95.00141143798828 27.85259437561035 H 184.26332150853034 0.11973980292436681 p99.9 0.021521856503110427
+dv max at 0 715 -35.41666793823242 -9.949613571166992 H 1405.9757248024 0.08855518857994792 p99.9 0.018409108867068293
+correction max |du| 1.197e-01 |dv| 8.856e-02 rms du surface 1.903e-03
+ORIG {'surf_all': '2.52e-07', 'surf_open': '1.64e-07', 'surf_coast': '9.43e-07', '100m_all': '4.41e-05', '100m_open': '3.76e-05', '100m_coast': '4.61e-05', '500m_all': '7.72e-05', '500m_open': '6.86e-05', '500m_coast': '1.23e-04', '1000m_all': '7.62e-05', '1000m_open': '7.21e-05', '1000m_coast': '1.61e-04'}
+v1_componentwise {'surf_all': '6.68e-04', 'surf_open': '5.02e-04', 'surf_coast': '1.23e-03', '100m_all': '6.72e-04', '100m_open': '4.99e-04', '100m_coast': '2.05e-03', '500m_all': '6.35e-04', '500m_open': '4.86e-04', '500m_coast': '1.82e-03', '1000m_all': '6.10e-04', '1000m_open': '4.75e-04', '1000m_coast': '1.56e-03'}
+v2_vector {'surf_all': '2.71e-05', 'surf_open': '2.67e-05', 'surf_coast': '1.75e-05', '100m_all': '3.15e-05', '100m_open': '3.06e-05', '100m_coast': '2.92e-05', '500m_all': '3.81e-05', '500m_open': '3.76e-05', '500m_coast': '3.54e-05', '1000m_all': '4.22e-05', '1000m_open': '4.13e-05', '1000m_coast': '3.74e-05'}
+v2_vector_btcorr {'surf_all': '2.32e-07', 'surf_open': '1.45e-07', 'surf_coast': '9.01e-07', '100m_all': '1.56e-05', '100m_open': '1.50e-05', '100m_coast': '1.80e-05', '500m_all': '2.74e-05', '500m_open': '2.69e-05', '500m_coast': '2.82e-05', '1000m_all': '3.37e-05', '1000m_open': '3.23e-05', '1000m_coast': '3.74e-05'}
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27464967
+* JobName          : impf_vval                                         
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50100 (1)                                                
+* Submit date      : 2026-09-15T08:42:07
+* Start time       : 2026-09-15T08:42:17
+* End time         : 2026-09-15T08:43:30
+* Elapsed time     : 00:01:13 (Timelimit=00:30:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/
+*                    validate_vector.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0014
+* extern | extern          0.0014                       ()
+* ------------------------------------------------------------------------------
+

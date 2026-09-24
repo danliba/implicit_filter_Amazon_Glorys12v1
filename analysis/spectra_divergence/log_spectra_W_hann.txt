@@ -1,0 +1,40 @@
+WTA 109 181 9128.86959157588 9128.86959157588 {22: True, 31: True}
+  WTA k=22 ORIG KE(int)=5.4881e-10
+  WTA k=22 W1.5 KE(int)=2.2398e-10
+  WTA k=22 W2.0 KE(int)=1.6525e-10
+  WTA k=22 W2.5 KE(int)=1.2415e-10
+  WTA k=22 R2Ld KE(int)=1.5605e-10
+  WTA k=22 R3Ld KE(int)=8.9214e-11
+  WTA k=31 ORIG KE(int)=1.5876e-09
+  WTA k=31 W1.5 KE(int)=4.3740e-10
+  WTA k=31 W2.0 KE(int)=2.9802e-10
+  WTA k=31 W2.5 KE(int)=2.1190e-10
+  WTA k=31 R2Ld KE(int)=2.8818e-10
+  WTA k=31 R3Ld KE(int)=1.5170e-10
+STA 131 241 8513.781716269454 8512.258445124511 {22: True, 31: True}
+  STA k=22 ORIG KE(int)=1.1019e-10
+  STA k=22 W1.5 KE(int)=1.5209e-11
+  STA k=22 W2.0 KE(int)=1.0829e-11
+  STA k=22 W2.5 KE(int)=8.1991e-12
+  STA k=22 R2Ld KE(int)=2.8004e-11
+  STA k=22 R3Ld KE(int)=1.8034e-11
+  STA k=31 ORIG KE(int)=1.9975e-10
+  STA k=31 W1.5 KE(int)=4.0757e-11
+  STA k=31 W2.0 KE(int)=2.3795e-11
+  STA k=31 W2.5 KE(int)=1.4866e-11
+  STA k=31 R2Ld KE(int)=8.8117e-11
+  STA k=31 R3Ld KE(int)=5.2816e-11
+EQA 97 217 9258.901116573332 9258.901116573332 {22: True, 31: True}
+  EQA k=22 ORIG KE(int)=1.6719e-09
+  EQA k=22 W1.5 KE(int)=8.2990e-10
+  EQA k=22 W2.0 KE(int)=6.3861e-10
+  EQA k=22 W2.5 KE(int)=4.9174e-10
+  EQA k=22 R2Ld KE(int)=1.9114e-10
+  EQA k=22 R3Ld KE(int)=7.7550e-11
+  EQA k=31 ORIG KE(int)=6.0643e-09
+  EQA k=31 W1.5 KE(int)=2.0868e-09
+  EQA k=31 W2.0 KE(int)=1.5610e-09
+  EQA k=31 W2.5 KE(int)=1.1975e-09
+  EQA k=31 R2Ld KE(int)=4.9245e-10
+  EQA k=31 R3Ld KE(int)=2.1218e-10
+done

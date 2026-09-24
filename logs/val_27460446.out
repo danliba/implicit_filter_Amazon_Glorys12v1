@@ -1,0 +1,63 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+L_box=167.0 km l=47.7 km its=129 t=5.12s
+   lambda=   50 km  gain_x=0.056 gain_y=0.058 theory=0.053 box1d=-0.084
+   lambda=  100 km  gain_x=0.181 gain_y=0.186 theory=0.182 box1d=-0.164
+   lambda=  200 km  gain_x=0.464 gain_y=0.473 theory=0.471 box1d=0.189
+   lambda=  400 km  gain_x=0.775 gain_y=0.781 theory=0.781 box1d=0.737
+   lambda=  800 km  gain_x=0.932 gain_y=0.934 theory=0.934 box1d=0.930
+L_box=222.0 km l=63.4 km its=173 t=2.58s
+   lambda=   50 km  gain_x=0.033 gain_y=0.034 theory=0.031 box1d=0.070
+   lambda=  100 km  gain_x=0.111 gain_y=0.115 theory=0.112 box1d=0.091
+   lambda=  200 km  gain_x=0.328 gain_y=0.337 theory=0.335 box1d=-0.097
+   lambda=  400 km  gain_x=0.661 gain_y=0.669 theory=0.668 box1d=0.565
+   lambda=  800 km  gain_x=0.886 gain_y=0.890 theory=0.890 box1d=0.878
+L_box=278.0 km l=79.4 km its=217 t=3.23s
+   lambda=   50 km  gain_x=0.021 gain_y=0.022 theory=0.020 box1d=-0.056
+   lambda=  100 km  gain_x=0.074 gain_y=0.076 theory=0.074 box1d=0.073
+   lambda=  200 km  gain_x=0.238 gain_y=0.244 theory=0.243 box1d=-0.215
+   lambda=  400 km  gain_x=0.554 gain_y=0.563 theory=0.562 box1d=0.375
+   lambda=  800 km  gain_x=0.832 gain_y=0.837 theory=0.837 box1d=0.813
+Traceback (most recent call last):
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/validate_filter.py", line 57, in <module>
+    t0 = time.time(); pk = f._compute(1, float(2.0 / ellc), data, tol=1e-10); tpk = time.time() - t0
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_filter/src/implicit_filter/latlon_filter.py", line 288, in _compute
+    tts, code = self.cg(Smat, ttw, None, tol, maxiter, pre)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_filter/src/implicit_filter/utils/utils.py", line 62, in <lambda>
+    cg = lambda Smat, ttw, x0, tol, maxiter, pre: cupy_cg(
+                                                  ^^^^^^^^
+TypeError: cg() got an unexpected keyword argument 'tol'
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27460446
+* JobName          : impf_val                                          
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50069 (1)                                                
+* Submit date      : 2026-09-15T00:37:32
+* Start time       : 2026-09-15T00:37:41
+* End time         : 2026-09-15T00:38:29
+* Elapsed time     : 00:00:48 (Timelimit=00:30:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/
+*                    validate.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch          0.00094
+* extern | extern         0.00094                       ()
+* ------------------------------------------------------------------------------
+

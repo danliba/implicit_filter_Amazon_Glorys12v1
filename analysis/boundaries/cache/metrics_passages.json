@@ -1,0 +1,416 @@
+{
+ "sections": {
+  "Galleons (Trinidad\u2013Tobago)": {
+   "surface_wet_width_km": 54.58522591145833,
+   "n_wet_faces_surface": 6,
+   "ORIG": {
+    "mean_Sv": -1.106452011427787,
+    "std_daily_Sv": 0.13983979893544546
+   },
+   "W1.5": {
+    "mean_Sv": -1.0976967273442308,
+    "std_daily_Sv": 0.13830940847916515,
+    "mean_ratio": 0.992087063882456,
+    "rms_daily_diff_Sv": 0.011132552264338597
+   },
+   "W2.0": {
+    "mean_Sv": -1.1012941718660765,
+    "std_daily_Sv": 0.13719446923647424,
+    "mean_ratio": 0.9953383974104266,
+    "rms_daily_diff_Sv": 0.011234016866922615
+   },
+   "W2.5": {
+    "mean_Sv": -1.1057913655197213,
+    "std_daily_Sv": 0.1362814674196045,
+    "mean_ratio": 0.9994029149920266,
+    "rms_daily_diff_Sv": 0.012789425707179477
+   },
+   "R2Ld": {
+    "mean_Sv": -1.0964850022249957,
+    "std_daily_Sv": 0.13903518980723334,
+    "mean_ratio": 0.9909919191254127,
+    "rms_daily_diff_Sv": 0.011130194454158028
+   },
+   "R3Ld": {
+    "mean_Sv": -1.0989250211735495,
+    "std_daily_Sv": 0.13753587429921396,
+    "mean_ratio": 0.9931971832700413,
+    "rms_daily_diff_Sv": 0.011419608053497277
+   }
+  },
+  "Grenada Passage (Tobago\u2013Grenada)": {
+   "surface_wet_width_km": 181.4936311085391,
+   "n_wet_faces_surface": 20,
+   "ORIG": {
+    "mean_Sv": -6.936787508006306,
+    "std_daily_Sv": 1.0251908543710337
+   },
+   "W1.5": {
+    "mean_Sv": -6.946764608934756,
+    "std_daily_Sv": 0.9682576522408505,
+    "mean_ratio": 1.001438288388816,
+    "rms_daily_diff_Sv": 0.07912334292756472
+   },
+   "W2.0": {
+    "mean_Sv": -6.937960153230307,
+    "std_daily_Sv": 0.9559147264742941,
+    "mean_ratio": 1.0001690473036182,
+    "rms_daily_diff_Sv": 0.09407097831020778
+   },
+   "W2.5": {
+    "mean_Sv": -6.9288240590815375,
+    "std_daily_Sv": 0.945383299385307,
+    "mean_ratio": 0.998851997568676,
+    "rms_daily_diff_Sv": 0.10709024854275434
+   },
+   "R2Ld": {
+    "mean_Sv": -6.952915016459252,
+    "std_daily_Sv": 0.9774450645079031,
+    "mean_ratio": 1.002324924676492,
+    "rms_daily_diff_Sv": 0.06824243091747027
+   },
+   "R3Ld": {
+    "mean_Sv": -6.945165214930495,
+    "std_daily_Sv": 0.9607091105102878,
+    "mean_ratio": 1.001207721429339,
+    "rms_daily_diff_Sv": 0.08816800365075288
+   }
+  },
+  "Grenadines (Grenada\u2013St Vincent)": {
+   "surface_wet_width_km": 135.63084854841821,
+   "n_wet_faces_surface": 15,
+   "ORIG": {
+    "mean_Sv": -1.1780400844360852,
+    "std_daily_Sv": 0.2589491859956515
+   },
+   "W1.5": {
+    "mean_Sv": -1.0106337167260402,
+    "std_daily_Sv": 0.2142882093233394,
+    "mean_ratio": 0.8578941668269457,
+    "rms_daily_diff_Sv": 0.1780260066452726
+   },
+   "W2.0": {
+    "mean_Sv": -0.9947026104867875,
+    "std_daily_Sv": 0.2121891496597791,
+    "mean_ratio": 0.8443707677085883,
+    "rms_daily_diff_Sv": 0.19584155347134047
+   },
+   "W2.5": {
+    "mean_Sv": -0.9850461974316163,
+    "std_daily_Sv": 0.2115245579275173,
+    "mean_ratio": 0.8361737520189281,
+    "rms_daily_diff_Sv": 0.20701765497839614
+   },
+   "R2Ld": {
+    "mean_Sv": -1.0262777912776009,
+    "std_daily_Sv": 0.21710651638385065,
+    "mean_ratio": 0.8711739140598672,
+    "rms_daily_diff_Sv": 0.1609373719879214
+   },
+   "R3Ld": {
+    "mean_Sv": -1.0008302149044002,
+    "std_daily_Sv": 0.21287890794393158,
+    "mean_ratio": 0.8495722922564953,
+    "rms_daily_diff_Sv": 0.18897782966242135
+   }
+  },
+  "St Vincent Passage": {
+   "surface_wet_width_km": 63.06337221096967,
+   "n_wet_faces_surface": 7,
+   "ORIG": {
+    "mean_Sv": -5.838132319568563,
+    "std_daily_Sv": 1.5339925527903262
+   },
+   "W1.5": {
+    "mean_Sv": -5.843926255253605,
+    "std_daily_Sv": 1.5430488833283522,
+    "mean_ratio": 1.0009924296620722,
+    "rms_daily_diff_Sv": 0.02516595293473161
+   },
+   "W2.0": {
+    "mean_Sv": -5.852405715585522,
+    "std_daily_Sv": 1.5501056532423279,
+    "mean_ratio": 1.0024448565458368,
+    "rms_daily_diff_Sv": 0.03706465379068654
+   },
+   "W2.5": {
+    "mean_Sv": -5.862595468570419,
+    "std_daily_Sv": 1.557498223096345,
+    "mean_ratio": 1.0041902354490766,
+    "rms_daily_diff_Sv": 0.05046718654493864
+   },
+   "R2Ld": {
+    "mean_Sv": -5.839961494129684,
+    "std_daily_Sv": 1.5388012568048934,
+    "mean_ratio": 1.0003133150228525,
+    "rms_daily_diff_Sv": 0.018415138504927354
+   },
+   "R3Ld": {
+    "mean_Sv": -5.848205439190309,
+    "std_daily_Sv": 1.546406220930924,
+    "mean_ratio": 1.0017254010478631,
+    "rms_daily_diff_Sv": 0.03082339782934597
+   }
+  },
+  "St Lucia Channel": {
+   "surface_wet_width_km": 53.889401652520576,
+   "n_wet_faces_surface": 6,
+   "ORIG": {
+    "mean_Sv": -5.559435256753498,
+    "std_daily_Sv": 0.6588138627545529
+   },
+   "W1.5": {
+    "mean_Sv": -5.5366468385113405,
+    "std_daily_Sv": 0.6283448250439977,
+    "mean_ratio": 0.9959009472743703,
+    "rms_daily_diff_Sv": 0.04479166708653214
+   },
+   "W2.0": {
+    "mean_Sv": -5.538377658600122,
+    "std_daily_Sv": 0.62172623041076,
+    "mean_ratio": 0.996212277474084,
+    "rms_daily_diff_Sv": 0.05211055657692469
+   },
+   "W2.5": {
+    "mean_Sv": -5.541925261272502,
+    "std_daily_Sv": 0.6158065503068734,
+    "mean_ratio": 0.996850400324435,
+    "rms_daily_diff_Sv": 0.058636760890122056
+   },
+   "R2Ld": {
+    "mean_Sv": -5.537258510777089,
+    "std_daily_Sv": 0.6340437726366851,
+    "mean_ratio": 0.9960109714472402,
+    "rms_daily_diff_Sv": 0.03808020056597689
+   },
+   "R3Ld": {
+    "mean_Sv": -5.537113837955619,
+    "std_daily_Sv": 0.6259121040016611,
+    "mean_ratio": 0.9959849485123937,
+    "rms_daily_diff_Sv": 0.047500973892201814
+   }
+  },
+  "Dominica Passage (Martinique\u2013Dominica)": {
+   "surface_wet_width_km": 71.57685261541924,
+   "n_wet_faces_surface": 8,
+   "ORIG": {
+    "mean_Sv": -0.15904252040633798,
+    "std_daily_Sv": 1.3851794962169126
+   },
+   "W1.5": {
+    "mean_Sv": -0.16068295773480154,
+    "std_daily_Sv": 1.367012241559873,
+    "mean_ratio": 1.0103144575694123,
+    "rms_daily_diff_Sv": 0.037401616184527656
+   },
+   "W2.0": {
+    "mean_Sv": -0.16314776751955418,
+    "std_daily_Sv": 1.3618497741197921,
+    "mean_ratio": 1.0258122614174354,
+    "rms_daily_diff_Sv": 0.04725441273498914
+   },
+   "W2.5": {
+    "mean_Sv": -0.1668848298045253,
+    "std_daily_Sv": 1.3568500716631762,
+    "mean_ratio": 1.049309514073035,
+    "rms_daily_diff_Sv": 0.05609231285690614
+   },
+   "R2Ld": {
+    "mean_Sv": -0.16064042915023152,
+    "std_daily_Sv": 1.3719920296634074,
+    "mean_ratio": 1.0100470537049528,
+    "rms_daily_diff_Sv": 0.02714553657592438
+   },
+   "R3Ld": {
+    "mean_Sv": -0.16142196658915264,
+    "std_daily_Sv": 1.365907396559647,
+    "mean_ratio": 1.0149610693840578,
+    "rms_daily_diff_Sv": 0.039648516140526474
+   }
+  },
+  "Guadeloupe Passage (Dominica\u2013Guadeloupe)": {
+   "surface_wet_width_km": 53.510378263245876,
+   "n_wet_faces_surface": 6,
+   "ORIG": {
+    "mean_Sv": -0.04017114961488439,
+    "std_daily_Sv": 0.3297323274735688
+   },
+   "W1.5": {
+    "mean_Sv": -0.041595635361499614,
+    "std_daily_Sv": 0.3200469269051559,
+    "mean_ratio": 1.0354604177443658,
+    "rms_daily_diff_Sv": 0.01655715920275058
+   },
+   "W2.0": {
+    "mean_Sv": -0.04450170626288431,
+    "std_daily_Sv": 0.31647473230653805,
+    "mean_ratio": 1.1078026566208934,
+    "rms_daily_diff_Sv": 0.020902336874392375
+   },
+   "W2.5": {
+    "mean_Sv": -0.04800108447088656,
+    "std_daily_Sv": 0.3129742751431357,
+    "mean_ratio": 1.1949143833588718,
+    "rms_daily_diff_Sv": 0.025275568071129798
+   },
+   "R2Ld": {
+    "mean_Sv": -0.03999248396922893,
+    "std_daily_Sv": 0.32337432991392473,
+    "mean_ratio": 0.995552389031225,
+    "rms_daily_diff_Sv": 0.012077497393004273
+   },
+   "R3Ld": {
+    "mean_Sv": -0.042121887631482405,
+    "std_daily_Sv": 0.3194467131974085,
+    "mean_ratio": 1.0485606719075626,
+    "rms_daily_diff_Sv": 0.017038799580760346
+   }
+  },
+  "Dragon's Mouth": {
+   "surface_wet_width_km": 27.313806978202162,
+   "n_wet_faces_surface": 3,
+   "ORIG": {
+    "mean_Sv": 0.12307302400936097,
+    "std_daily_Sv": 0.013410098521478968
+   },
+   "W1.5": {
+    "mean_Sv": 0.14705783352754148,
+    "std_daily_Sv": 0.019678207017055346,
+    "mean_ratio": 1.1948827512059526,
+    "rms_daily_diff_Sv": 0.02507398102596549
+   },
+   "W2.0": {
+    "mean_Sv": 0.15174316327989407,
+    "std_daily_Sv": 0.020990732584758812,
+    "mean_ratio": 1.2329522614830073,
+    "rms_daily_diff_Sv": 0.029951343296416095
+   },
+   "W2.5": {
+    "mean_Sv": 0.15383192077190222,
+    "std_daily_Sv": 0.021737966517720624,
+    "mean_ratio": 1.2499239537674942,
+    "rms_daily_diff_Sv": 0.03218560048049803
+   },
+   "R2Ld": {
+    "mean_Sv": 0.14175974331305125,
+    "std_daily_Sv": 0.018309220690347638,
+    "mean_ratio": 1.151834404444868,
+    "rms_daily_diff_Sv": 0.019605155367795155
+   },
+   "R3Ld": {
+    "mean_Sv": 0.14913374039022823,
+    "std_daily_Sv": 0.020246573785542794,
+    "mean_ratio": 1.2117500288193541,
+    "rms_daily_diff_Sv": 0.02723073003530634
+   }
+  },
+  "Serpent's Mouth": {
+   "surface_wet_width_km": 27.381606730645565,
+   "n_wet_faces_surface": 3,
+   "ORIG": {
+    "mean_Sv": -0.11911927333011146,
+    "std_daily_Sv": 0.013090191263439388
+   },
+   "W1.5": {
+    "mean_Sv": -0.10410839415924475,
+    "std_daily_Sv": 0.01156174292746282,
+    "mean_ratio": 0.8739844632088416,
+    "rms_daily_diff_Sv": 0.015173148957924413
+   },
+   "W2.0": {
+    "mean_Sv": -0.1032117407826635,
+    "std_daily_Sv": 0.01145655110706947,
+    "mean_ratio": 0.8664571055318318,
+    "rms_daily_diff_Sv": 0.016113250353573406
+   },
+   "W2.5": {
+    "mean_Sv": -0.1030914918884732,
+    "std_daily_Sv": 0.011413260468885165,
+    "mean_ratio": 0.8654476224244504,
+    "rms_daily_diff_Sv": 0.016281816008356004
+   },
+   "R2Ld": {
+    "mean_Sv": -0.10508613567069319,
+    "std_daily_Sv": 0.011665308409077492,
+    "mean_ratio": 0.8821925514897268,
+    "rms_daily_diff_Sv": 0.014175029371689915
+   },
+   "R3Ld": {
+    "mean_Sv": -0.10330725519855434,
+    "std_daily_Sv": 0.011469543178074682,
+    "mean_ratio": 0.8672589440019687,
+    "rms_daily_diff_Sv": 0.01600783979303424
+   }
+  },
+  "sum_arc_Galleons_to_Guadeloupe": {
+   "ORIG": {
+    "mean_Sv": -20.81806085021346,
+    "std_daily_Sv": 2.108711398913066
+   },
+   "W1.5": {
+    "mean_Sv": -20.637946739866273,
+    "std_daily_Sv": 1.9834484348217476
+   },
+   "W2.0": {
+    "mean_Sv": -20.632389783551258,
+    "std_daily_Sv": 1.9462026550743137
+   },
+   "W2.5": {
+    "mean_Sv": -20.639068266151213,
+    "std_daily_Sv": 1.91151889188847
+   },
+   "R2Ld": {
+    "mean_Sv": -20.653530727988073,
+    "std_daily_Sv": 2.011751786752436
+   },
+   "R3Ld": {
+    "mean_Sv": -20.63378358237501,
+    "std_daily_Sv": 1.9667026760196586
+   }
+  }
+ },
+ "gulf_of_paria": {
+  "ORIG": {
+   "mean_surface_speed_of_monthly_mean": 0.09950012888066942,
+   "ratio_to_orig": 1.0
+  },
+  "W1.5": {
+   "mean_surface_speed_of_monthly_mean": 0.1266973357772414,
+   "ratio_to_orig": 1.2733384087289938
+  },
+  "W2.0": {
+   "mean_surface_speed_of_monthly_mean": 0.13609372000705067,
+   "ratio_to_orig": 1.3677743088179108
+  },
+  "W2.5": {
+   "mean_surface_speed_of_monthly_mean": 0.14288048780694515,
+   "ratio_to_orig": 1.4359829420754
+  },
+  "R2Ld": {
+   "mean_surface_speed_of_monthly_mean": 0.11878581660590812,
+   "ratio_to_orig": 1.1938257562296029
+  },
+  "R3Ld": {
+   "mean_surface_speed_of_monthly_mean": 0.1321060334865571,
+   "ratio_to_orig": 1.3276971092669838
+  }
+ },
+ "small_islands": {
+  "Fernando de Noronha": {
+   "land_T_cells_within_3": 0,
+   "H_min_m": 34.974351143424315
+  },
+  "St Peter and St Paul": {
+   "land_T_cells_within_3": 0,
+   "H_min_m": 1149.9621728136224
+  }
+ },
+ "w50m_monthly_mean_rms_m_per_day_arc_box_62.5-59.5W_10.5-16.5N": {
+  "ORIG": 5.500801879385405,
+  "W1.5": 1.1832208736834529,
+  "W2.0": 0.9860957085996492,
+  "W2.5": 0.8523792017415017,
+  "R2Ld": 1.386765930419561,
+  "R3Ld": 1.0686690731597461
+ }
+}

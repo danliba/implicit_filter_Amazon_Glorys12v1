@@ -1,0 +1,57 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+Traceback (most recent call last):
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/validate_filter.py", line 23, in <module>
+    S = cf.ImplicitSolver(area, K, backend="gpu", tol=1e-10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_run/cgrid_filter.py", line 184, in __init__
+    self.minv = 1.0 / xp.asarray(self.S.diagonal())
+                                 ^^^^^^^^^^^^^^^^^
+  File "/work/bk1450/b383184/conda/envs/implicit_filter/lib/python3.11/site-packages/cupyx/scipy/sparse/_csr.py", line 332, in diagonal
+    self.sum_duplicates()
+  File "/work/bk1450/b383184/conda/envs/implicit_filter/lib/python3.11/site-packages/cupyx/scipy/sparse/_compressed.py", line 1556, in sum_duplicates
+    if self.has_canonical_format:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/work/bk1450/b383184/conda/envs/implicit_filter/lib/python3.11/site-packages/cupyx/scipy/sparse/_compressed.py", line 1377, in __get_has_canonical_format
+    is_canonical = self._has_canonical_format_kern(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "cupy/_core/_kernel.pyx", line 932, in cupy._core._kernel.ElementwiseKernel.__call__
+  File "cupy/_core/_kernel.pyx", line 957, in cupy._core._kernel.ElementwiseKernel._get_elementwise_kernel
+  File "cupy/_util.pyx", line 67, in cupy._util.memoize.decorator.ret
+  File "cupy/_core/_kernel.pyx", line 740, in cupy._core._kernel._get_elementwise_kernel
+  File "cupy/_core/_kernel.pyx", line 112, in cupy._core._kernel._get_simple_elementwise_kernel_from_code
+  File "cupy/_core/core.pyx", line 2637, in cupy._core.core.compile_with_cache
+  File "cupy/_core/core.pyx", line 2599, in cupy._core.core.assemble_cupy_compiler_options
+RuntimeError: Failed to find CUDA headers. Please install CUDA toolkit headers (e.g., pip install cupy-cuda12x[ctk]) or specify CUDA_PATH environment variable.
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27460434
+* JobName          : impf_val                                          
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50024 (1)                                                
+* Submit date      : 2026-09-15T00:35:28
+* Start time       : 2026-09-15T00:35:47
+* End time         : 2026-09-15T00:36:05
+* Elapsed time     : 00:00:18 (Timelimit=00:30:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/
+*                    validate.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch          0.00035
+* extern | extern         0.00035                       ()
+* ------------------------------------------------------------------------------
+

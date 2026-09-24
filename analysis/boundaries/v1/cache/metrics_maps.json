@@ -1,0 +1,22 @@
+{
+ "lat2N_ORIG_mean_speed_shelf_H<200": 0.5109930340877571,
+ "lat2N_W1.5_mean_speed_shelf_H<200": 0.5284925955630149,
+ "lat2N_W2.0_mean_speed_shelf_H<200": 0.5258737639056127,
+ "lat2N_W2.5_mean_speed_shelf_H<200": 0.5218148837416511,
+ "lat2N_R2Ld_mean_speed_shelf_H<200": 0.5078620358035153,
+ "lat2N_R3Ld_mean_speed_shelf_H<200": 0.48391979892047093,
+ "lat5N_ORIG_mean_speed_shelf_H<200": 0.7609448335162103,
+ "lat5N_W1.5_mean_speed_shelf_H<200": 0.7628270331916934,
+ "lat5N_W2.0_mean_speed_shelf_H<200": 0.7579188358916178,
+ "lat5N_W2.5_mean_speed_shelf_H<200": 0.7480093236252493,
+ "lat5N_R2Ld_mean_speed_shelf_H<200": 0.734611209903953,
+ "lat5N_R3Ld_mean_speed_shelf_H<200": 0.6870430961714296,
+ "depth454m_W2.0_slope_H<3000_speed_ratio": 0.8342774600170672,
+ "depth454m_W2.0_deep_H>3000_speed_ratio": 0.7527490251122362,
+ "depth454m_R2Ld_slope_H<3000_speed_ratio": 0.6582752255182255,
+ "depth454m_R2Ld_deep_H>3000_speed_ratio": 0.5435235878095881,
+ "depth1062m_W2.0_slope_H<3000_speed_ratio": 0.6622004092584621,
+ "depth1062m_W2.0_deep_H>3000_speed_ratio": 0.7419108040066675,
+ "depth1062m_R2Ld_slope_H<3000_speed_ratio": 0.4276137215996814,
+ "depth1062m_R2Ld_deep_H>3000_speed_ratio": 0.5433009415003708
+}

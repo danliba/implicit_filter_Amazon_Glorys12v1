@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------------------
+# Large binaries. The filtered fields are ~101 GB and the analysis caches
+# ~11 GB; neither belongs in git. See "Data availability" in README.md for
+# the DKRZ paths and how to regenerate them.
+# ---------------------------------------------------------------------------
+
+# Filtered output (28 GB final + 73 GB superseded runs)
+output/
+output_v1_componentwise/
+output_v2_btcorr/
+
+# netCDF anywhere, except the small Rossby-radius field the scales depend on
+*.nc
+!rossby/rossby_radius_T.nc
+
+# Numpy archives: analysis caches (up to 1.1 GB each) and run diagnostics
+*.npz
+
+# Scratch notebook-building area, except the generator scripts
+scratch/*
+!scratch/*.py
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors / OS
+.DS_Store
+*.swp
+
+# Internal chat handoff, not part of the published project
+CHAT_HANDOFF.md

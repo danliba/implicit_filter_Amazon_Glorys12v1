@@ -1,0 +1,38 @@
+Input Notebook:  v0.Implicit_filtering_ARP.ipynb
+Output Notebook: /work/bk1450/b383184/Amazon/Mercator/implicit_run/scratch/nb_executed.ipynb
+Working directory: /work/bk1450/b383184/Amazon/Mercator/implicit_data
+Executing:   0%|          | 0/21 [00:00<?, ?cell/s][IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+Executing notebook with kernel: implicit_filter
+Executing:   5%|▍         | 1/21 [00:09<03:19,  9.95s/cell]Executing:  24%|██▍       | 5/21 [00:21<01:03,  3.96s/cell]Executing:  33%|███▎      | 7/21 [00:22<00:37,  2.70s/cell]Executing:  38%|███▊      | 8/21 [00:23<00:29,  2.30s/cell]Executing:  48%|████▊     | 10/21 [00:24<00:16,  1.53s/cell]Executing:  57%|█████▋    | 12/21 [00:34<00:24,  2.72s/cell]Executing:  67%|██████▋   | 14/21 [00:39<00:19,  2.72s/cell]Executing:  76%|███████▌  | 16/21 [00:44<00:13,  2.64s/cell]Executing:  86%|████████▌ | 18/21 [01:48<00:35, 11.88s/cell]Executing:  95%|█████████▌| 20/21 [01:48<00:08,  8.23s/cell]Executing: 100%|██████████| 21/21 [01:55<00:00,  8.06s/cell]Executing: 100%|██████████| 21/21 [01:59<00:00,  5.69s/cell]
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27470353
+* JobName          : nbexec                                            
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50024 (1)                                                
+* Submit date      : 2026-09-15T13:17:38
+* Start time       : 2026-09-15T13:17:56
+* End time         : 2026-09-15T13:20:15
+* Elapsed time     : 00:02:19 (Timelimit=01:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/scratch/
+*                    run_nb.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0051
+* extern | extern          0.0051                       ()
+* ------------------------------------------------------------------------------
+

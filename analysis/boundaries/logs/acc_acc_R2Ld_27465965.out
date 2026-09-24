@@ -1,0 +1,71 @@
+[R2Ld] U t=0 2s
+[R2Ld] U t=1 4s
+[R2Ld] U t=2 6s
+[R2Ld] U t=3 8s
+[R2Ld] U t=4 10s
+[R2Ld] U t=5 12s
+[R2Ld] U t=6 14s
+[R2Ld] U t=7 16s
+[R2Ld] U t=8 18s
+[R2Ld] U t=9 20s
+[R2Ld] U t=10 22s
+[R2Ld] U t=11 24s
+[R2Ld] U t=12 26s
+[R2Ld] U t=13 28s
+[R2Ld] U t=14 30s
+[R2Ld] U t=15 32s
+[R2Ld] U t=16 34s
+[R2Ld] U t=17 36s
+[R2Ld] U t=18 38s
+[R2Ld] U t=19 40s
+[R2Ld] U t=20 42s
+[R2Ld] U t=21 44s
+[R2Ld] U t=22 46s
+[R2Ld] U t=23 48s
+[R2Ld] U t=24 50s
+[R2Ld] U t=25 52s
+[R2Ld] U t=26 54s
+[R2Ld] U t=27 56s
+[R2Ld] U t=28 58s
+[R2Ld] U t=29 60s
+[R2Ld] U t=30 61s
+Traceback (most recent call last):
+  File "/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/boundaries/accumulate.py", line 38, in <module>
+    ff = netCDF4.Dataset(path(var, cfg))[VNAME[var]] if cfg != "ORIG" else None
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "src/netCDF4/_netCDF4.pyx", line 2522, in netCDF4._netCDF4.Dataset.__init__
+  File "src/netCDF4/_netCDF4.pyx", line 2159, in netCDF4._netCDF4._ensure_nc_success
+FileNotFoundError: [Errno 2] No such file or directory: '/work/bk1450/b383184/Amazon/Mercator/implicit_run/output/R2Ld/V_1993-01c_R2Ld.nc'
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27465965
+* JobName          : acc_R2Ld                                          
+* Account          : bk1450
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : shared
+* QOS              : normal
+* Nodelist         : l40017 (1)                                                
+* Submit date      : 2026-09-15T09:44:39
+* Start time       : 2026-09-15T09:49:47
+* End time         : 2026-09-15T09:51:01
+* Elapsed time     : 00:01:14 (Timelimit=02:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/
+*                    boundaries/accumulate.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/
+*                    boundaries
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0053
+* extern | extern          0.0053                       ()
+* ------------------------------------------------------------------------------
+

@@ -1,0 +1,10 @@
+lat   median Ld_raw [km]  median Ld [km]  median c1 [m/s]  (lon -60..-20)
+  0N       244.2           237.1          2.67
+  5N       203.5           195.9          2.61
+ 10N       106.3           106.2          2.69
+ 15N        71.8            71.8          2.72
+ 20N        52.3            52.3          2.60
+ 25N        41.1            41.1          2.53
+ 30N        33.0            33.0          2.39
+
+WKB/eigen c1 ratio over 3000 random deep columns: median 1.049, mean 1.034, 5-95% [0.876, 1.163]

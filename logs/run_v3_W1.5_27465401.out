@@ -1,0 +1,37 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+[W1.5] level  0 nwet_uv= 847626 its_uv= 110 its_w=   0 read=  0.5s uv=  8.84s w= 0.02s write=  3.6s
+[W1.5] level  1 nwet_uv= 847626 its_uv= 109 its_w=  98 read=  0.6s uv=  5.54s w= 2.46s write=  7.8s
+[2026-09-15T09:12:59.842] error: *** JOB 27465401 ON l50015 CANCELLED AT 2026-09-15T09:12:59 DUE to SIGNAL Terminated ***
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27465401
+* JobName          : v3_W1.5                                           
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50015 (1)                                                
+* Submit date      : 2026-09-15T09:12:00
+* Start time       : 2026-09-15T09:12:24
+* End time         : 2026-09-15T09:12:59
+* Elapsed time     : 00:00:35 (Timelimit=04:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/
+*                    run_filter.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0016
+* extern | extern          0.0017                       ()
+* ------------------------------------------------------------------------------
+

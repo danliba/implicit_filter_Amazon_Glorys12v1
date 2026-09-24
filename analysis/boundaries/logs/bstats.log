@@ -1,0 +1,10 @@
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/boundaries/boundary_stats.py:270: RuntimeWarning: Mean of empty slice
+  rf2 = np.nanmean(dg["Rsurf_filt"].astype(np.float64) ** 2, 0); ro2 = np.nanmean(dg["Rsurf_orig"].astype(np.float64) ** 2, 0)
+done W1.5
+done W2.0
+done W2.5
+done R2Ld
+done R3Ld
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/boundaries/boundary_stats.py:371: RuntimeWarning: invalid value encountered in divide
+  r = np.convolve(ef, ker, "same") / np.convolve(eo, ker, "same")
+all done

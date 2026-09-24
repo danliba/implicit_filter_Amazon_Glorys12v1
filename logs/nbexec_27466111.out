@@ -1,0 +1,38 @@
+Input Notebook:  v0.Implicit_filtering_ARP.ipynb
+Output Notebook: /work/bk1450/b383184/Amazon/Mercator/implicit_run/scratch/nb_executed.ipynb
+Working directory: /work/bk1450/b383184/Amazon/Mercator/implicit_data
+Executing:   0%|          | 0/21 [00:00<?, ?cell/s][IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+Executing notebook with kernel: implicit_filter
+Executing:   5%|▍         | 1/21 [00:11<03:58, 11.90s/cell]Executing:  24%|██▍       | 5/21 [00:20<00:57,  3.59s/cell][2026-09-15T09:50:17.664] error: *** JOB 27466111 ON l50181 CANCELLED AT 2026-09-15T09:50:17 DUE to SIGNAL Terminated ***
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27466111
+* JobName          : nbexec                                            
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50181 (1)                                                
+* Submit date      : 2026-09-15T09:49:30
+* Start time       : 2026-09-15T09:49:37
+* End time         : 2026-09-15T09:50:17
+* Elapsed time     : 00:00:40 (Timelimit=01:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/scratch/
+*                    run_nb.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0015
+* extern | extern          0.0015                       ()
+* ------------------------------------------------------------------------------
+

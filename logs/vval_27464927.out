@@ -1,0 +1,54 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+transfer its 203 time 9.547983646392822
+  lam   50 km: u(x-wave) 0.033 u(y-wave) 0.034 v(y) 0.034 v(x) 0.033 theory 0.031
+  lam  100 km: u(x-wave) 0.111 u(y-wave) 0.115 v(y) 0.115 v(x) 0.111 theory 0.112
+  lam  200 km: u(x-wave) 0.328 u(y-wave) 0.337 v(y) 0.337 v(x) 0.328 theory 0.335
+  lam  400 km: u(x-wave) 0.661 u(y-wave) 0.669 v(y) 0.669 v(x) 0.661 theory 0.668
+  lam  800 km: u(x-wave) 0.886 u(y-wave) 0.890 v(y) 0.890 v(x) 0.886 theory 0.890
+level 0: commutation residual 4.62e-05, rms div filt/orig 0.259, its 185
+level 10: commutation residual 5.80e-05, rms div filt/orig 0.282, its 169
+level 22: commutation residual 5.42e-05, rms div filt/orig 0.204, its 159
+level 30: commutation residual 6.18e-05, rms div filt/orig 0.192, its 158
+level 40: commutation residual 4.31e-05, rms div filt/orig 0.182, its 158
+3D filter time 30.275349617004395
+column flux sum orig/target 9025184.070047496 9025184.087719813
+masked max |du| by depth class: {'<50m': 0.06409728373251196, '50-200': 0.1197857939125252, '200-1000': 0.11303260123058576, '>1000': 0.08219122448451277}
+barotropic correction time 6.159334182739258 info 0
+correction max |du| 1.198e-01 |dv| 2.257e-01 rms du surface 2.276e-03
+ORIG {'surf_all': '2.52e-07', 'surf_open': '1.64e-07', 'surf_coast': '9.43e-07', '100m_all': '4.41e-05', '100m_open': '3.76e-05', '100m_coast': '4.61e-05', '500m_all': '7.72e-05', '500m_open': '6.86e-05', '500m_coast': '1.23e-04', '1000m_all': '7.62e-05', '1000m_open': '7.21e-05', '1000m_coast': '1.61e-04'}
+v1_componentwise {'surf_all': '6.68e-04', 'surf_open': '5.02e-04', 'surf_coast': '1.23e-03', '100m_all': '6.72e-04', '100m_open': '4.99e-04', '100m_coast': '2.05e-03', '500m_all': '6.35e-04', '500m_open': '4.86e-04', '500m_coast': '1.82e-03', '1000m_all': '6.10e-04', '1000m_open': '4.75e-04', '1000m_coast': '1.56e-03'}
+v2_vector {'surf_all': '2.71e-05', 'surf_open': '2.67e-05', 'surf_coast': '1.75e-05', '100m_all': '3.15e-05', '100m_open': '3.06e-05', '100m_coast': '2.92e-05', '500m_all': '3.81e-05', '500m_open': '3.76e-05', '500m_coast': '3.54e-05', '1000m_all': '4.22e-05', '1000m_open': '4.13e-05', '1000m_coast': '3.74e-05'}
+v2_vector_btcorr {'surf_all': '5.36e-06', 'surf_open': '5.63e-06', 'surf_coast': '9.01e-07', '100m_all': '1.65e-05', '100m_open': '1.59e-05', '100m_coast': '1.81e-05', '500m_all': '2.78e-05', '500m_open': '2.73e-05', '500m_coast': '2.84e-05', '1000m_all': '3.40e-05', '1000m_open': '3.25e-05', '1000m_coast': '3.80e-05'}
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27464927
+* JobName          : impf_vval                                         
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50100 (1)                                                
+* Submit date      : 2026-09-15T08:39:23
+* Start time       : 2026-09-15T08:40:03
+* End time         : 2026-09-15T08:41:21
+* Elapsed time     : 00:01:18 (Timelimit=00:30:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/
+*                    validate_vector.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0015
+* extern | extern          0.0015                       ()
+* ------------------------------------------------------------------------------
+

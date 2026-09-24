@@ -1,0 +1,57 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+L_box=167.0 km l=47.7 km its=129 t=2.06s
+   lambda=   50 km  gain_x=0.056 gain_y=0.058 theory=0.053 box1d=-0.084
+   lambda=  100 km  gain_x=0.181 gain_y=0.186 theory=0.182 box1d=-0.164
+   lambda=  200 km  gain_x=0.464 gain_y=0.473 theory=0.471 box1d=0.189
+   lambda=  400 km  gain_x=0.775 gain_y=0.781 theory=0.781 box1d=0.737
+   lambda=  800 km  gain_x=0.932 gain_y=0.934 theory=0.934 box1d=0.930
+L_box=222.0 km l=63.4 km its=173 t=2.61s
+   lambda=   50 km  gain_x=0.033 gain_y=0.034 theory=0.031 box1d=0.070
+   lambda=  100 km  gain_x=0.111 gain_y=0.115 theory=0.112 box1d=0.091
+   lambda=  200 km  gain_x=0.328 gain_y=0.337 theory=0.335 box1d=-0.097
+   lambda=  400 km  gain_x=0.661 gain_y=0.669 theory=0.668 box1d=0.565
+   lambda=  800 km  gain_x=0.886 gain_y=0.890 theory=0.890 box1d=0.878
+L_box=278.0 km l=79.4 km its=217 t=3.27s
+   lambda=   50 km  gain_x=0.021 gain_y=0.022 theory=0.020 box1d=-0.056
+   lambda=  100 km  gain_x=0.074 gain_y=0.076 theory=0.074 box1d=0.073
+   lambda=  200 km  gain_x=0.238 gain_y=0.244 theory=0.243 box1d=-0.215
+   lambda=  400 km  gain_x=0.554 gain_y=0.563 theory=0.562 box1d=0.375
+   lambda=  800 km  gain_x=0.832 gain_y=0.837 theory=0.837 box1d=0.813
+package cross-check (k=2/l): max|diff|/max|u| = 2.32e-08; package cupyx cg 1.24s
+K symmetric: 0.0
+integral before/after: -3402343053127.649 -3402343053127.8467
+uniform field max deviation: 4.440892098500626e-16
+read level 0.1s; filter 31 days W2.5 level0: 3.82s its=165 nwet=423813
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27460473
+* JobName          : impf_val                                          
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50069 (1)                                                
+* Submit date      : 2026-09-15T00:38:48
+* Start time       : 2026-09-15T00:39:11
+* End time         : 2026-09-15T00:39:40
+* Elapsed time     : 00:00:29 (Timelimit=00:30:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/tests/
+*                    validate.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch          0.00057
+* extern | extern         0.00057                       ()
+* ------------------------------------------------------------------------------
+

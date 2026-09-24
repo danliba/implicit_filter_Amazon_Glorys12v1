@@ -1,0 +1,116 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+[W1.5] level  0 nwet_uv=      0 its_uv=   0 its_w=   0 read=  0.4s uv=  0.00s w= 0.02s write=  0.7s
+[W1.5] level  1 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w=23.84s write=  1.9s
+[W1.5] level  2 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.97s write=  3.1s
+[W1.5] level  3 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 3.05s write=  4.2s
+[W1.5] level  4 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.93s write=  5.3s
+[W1.5] level  5 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.94s write=  2.2s
+[W1.5] level  6 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.2s uv=  0.00s w= 2.90s write=  3.0s
+[W1.5] level  7 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.90s write=  4.2s
+[W1.5] level  8 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.91s write=  5.3s
+[W1.5] level  9 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 3.01s write=  6.5s
+[W1.5] level 10 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.89s write=  2.3s
+[W1.5] level 11 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.90s write=  3.0s
+[W1.5] level 12 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.88s write=  4.1s
+[W1.5] level 13 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.88s write=  5.2s
+[W1.5] level 14 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.90s write=  6.4s
+[W1.5] level 15 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.85s write=  2.3s
+[W1.5] level 16 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.3s uv=  0.00s w= 2.81s write=  2.9s
+[W1.5] level 17 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.83s write=  4.0s
+[W1.5] level 18 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.81s write=  5.1s
+[W1.5] level 19 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.82s write=  6.2s
+[W1.5] level 20 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.79s write=  2.3s
+[W1.5] level 21 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.78s write=  2.9s
+[W1.5] level 22 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.78s write=  4.0s
+[W1.5] level 23 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.77s write=  5.0s
+[W1.5] level 24 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.76s write=  6.3s
+[W1.5] level 25 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.76s write=  2.3s
+[W1.5] level 26 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.76s write=  2.9s
+[W1.5] level 27 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.76s write=  3.9s
+[W1.5] level 28 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.75s write=  5.0s
+[W1.5] level 29 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.74s write=  6.0s
+[W1.5] level 30 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.72s write=  2.2s
+[W1.5] level 31 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.3s uv=  0.00s w= 2.72s write=  2.8s
+[W1.5] level 32 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.5s uv=  0.00s w= 2.72s write=  3.9s
+[W1.5] level 33 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.71s write=  4.9s
+[W1.5] level 34 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.69s write=  6.0s
+[W1.5] level 35 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.67s write=  2.2s
+[W1.5] level 36 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.65s write=  2.8s
+[W1.5] level 37 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.5s uv=  0.00s w= 2.73s write=  3.8s
+[W1.5] level 38 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.60s write=  4.8s
+[W1.5] level 39 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.58s write=  5.8s
+[W1.5] level 40 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.53s write=  2.1s
+[W1.5] level 41 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.5s uv=  0.00s w= 2.49s write=  2.7s
+[W1.5] level 42 nwet_uv=      0 its_uv=   0 its_w=  99 read=  0.4s uv=  0.00s w= 2.43s write=  3.7s
+[W1.5] level 43 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.5s uv=  0.00s w= 2.30s write=  4.6s
+[W1.5] level 44 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.4s uv=  0.00s w= 2.12s write=  5.5s
+[W1.5] level 45 nwet_uv=      0 its_uv=   0 its_w=  98 read=  0.4s uv=  0.00s w= 1.86s write=  2.0s
+[W1.5] level 46 nwet_uv=      0 its_uv=   0 its_w=  97 read=  0.5s uv=  0.00s w= 1.54s write=  2.3s
+[W1.5] level 47 nwet_uv=      0 its_uv=   0 its_w=  96 read=  0.4s uv=  0.00s w= 1.16s write=  2.8s
+[W1.5] level 48 nwet_uv=      0 its_uv=   0 its_w=  94 read=  0.3s uv=  0.00s w= 0.75s write=  3.2s
+[W1.5] level 49 nwet_uv=      0 its_uv=   0 its_w=   0 read=  0.3s uv=  0.00s w= 0.03s write=  3.4s
+[W1.5] t= 0 residual rms (surface layer) filt/orig = 1.76e-07/1.32e-08  (hdiv rms 6.21e-07/2.28e-06); 100 m R filt/orig 3.68e-07/3.17e-09
+[W1.5] t= 1 residual rms (surface layer) filt/orig = 1.77e-07/1.27e-08  (hdiv rms 6.21e-07/2.25e-06); 100 m R filt/orig 3.49e-07/3.62e-09
+[W1.5] t= 2 residual rms (surface layer) filt/orig = 1.67e-07/1.22e-08  (hdiv rms 6.15e-07/2.33e-06); 100 m R filt/orig 4.06e-07/3.30e-09
+[W1.5] t= 3 residual rms (surface layer) filt/orig = 1.64e-07/1.54e-08  (hdiv rms 6.20e-07/2.38e-06); 100 m R filt/orig 3.54e-07/3.88e-09
+[W1.5] t= 4 residual rms (surface layer) filt/orig = 1.65e-07/1.59e-08  (hdiv rms 6.26e-07/2.36e-06); 100 m R filt/orig 3.68e-07/4.12e-09
+[W1.5] t= 5 residual rms (surface layer) filt/orig = 1.63e-07/1.06e-08  (hdiv rms 6.42e-07/2.30e-06); 100 m R filt/orig 4.00e-07/2.89e-09
+[W1.5] t= 6 residual rms (surface layer) filt/orig = 1.55e-07/1.39e-08  (hdiv rms 6.85e-07/2.32e-06); 100 m R filt/orig 4.26e-07/3.46e-09
+[W1.5] t= 7 residual rms (surface layer) filt/orig = 1.75e-07/1.42e-08  (hdiv rms 7.35e-07/2.41e-06); 100 m R filt/orig 4.42e-07/3.52e-09
+[W1.5] t= 8 residual rms (surface layer) filt/orig = 1.64e-07/1.46e-08  (hdiv rms 7.47e-07/2.41e-06); 100 m R filt/orig 4.09e-07/3.65e-09
+[W1.5] t= 9 residual rms (surface layer) filt/orig = 1.77e-07/1.24e-08  (hdiv rms 7.08e-07/2.33e-06); 100 m R filt/orig 3.69e-07/3.73e-09
+[W1.5] t=10 residual rms (surface layer) filt/orig = 1.86e-07/1.53e-08  (hdiv rms 6.77e-07/2.29e-06); 100 m R filt/orig 3.40e-07/4.05e-09
+[W1.5] t=11 residual rms (surface layer) filt/orig = 1.96e-07/1.27e-08  (hdiv rms 6.85e-07/2.30e-06); 100 m R filt/orig 3.86e-07/3.09e-09
+[W1.5] t=12 residual rms (surface layer) filt/orig = 1.98e-07/1.35e-08  (hdiv rms 6.72e-07/2.25e-06); 100 m R filt/orig 3.70e-07/3.64e-09
+[W1.5] t=13 residual rms (surface layer) filt/orig = 1.85e-07/1.39e-08  (hdiv rms 6.55e-07/2.24e-06); 100 m R filt/orig 3.40e-07/3.51e-09
+[W1.5] t=14 residual rms (surface layer) filt/orig = 1.98e-07/1.26e-08  (hdiv rms 6.31e-07/2.20e-06); 100 m R filt/orig 3.48e-07/3.18e-09
+[W1.5] t=15 residual rms (surface layer) filt/orig = 2.16e-07/1.68e-08  (hdiv rms 6.50e-07/2.25e-06); 100 m R filt/orig 3.74e-07/3.89e-09
+[W1.5] t=16 residual rms (surface layer) filt/orig = 2.18e-07/1.35e-08  (hdiv rms 6.58e-07/2.21e-06); 100 m R filt/orig 3.80e-07/3.42e-09
+[W1.5] t=17 residual rms (surface layer) filt/orig = 2.14e-07/1.52e-08  (hdiv rms 6.66e-07/2.21e-06); 100 m R filt/orig 3.55e-07/4.35e-09
+[W1.5] t=18 residual rms (surface layer) filt/orig = 2.10e-07/1.05e-08  (hdiv rms 6.39e-07/2.22e-06); 100 m R filt/orig 3.61e-07/2.95e-09
+[W1.5] t=19 residual rms (surface layer) filt/orig = 2.04e-07/1.75e-08  (hdiv rms 6.28e-07/2.26e-06); 100 m R filt/orig 4.06e-07/4.38e-09
+[W1.5] t=20 residual rms (surface layer) filt/orig = 2.12e-07/1.56e-08  (hdiv rms 6.62e-07/2.37e-06); 100 m R filt/orig 4.27e-07/3.98e-09
+[W1.5] t=21 residual rms (surface layer) filt/orig = 2.30e-07/1.64e-08  (hdiv rms 6.90e-07/2.33e-06); 100 m R filt/orig 4.20e-07/4.43e-09
+[W1.5] t=22 residual rms (surface layer) filt/orig = 2.40e-07/1.01e-08  (hdiv rms 6.82e-07/2.33e-06); 100 m R filt/orig 4.21e-07/2.68e-09
+[W1.5] t=23 residual rms (surface layer) filt/orig = 2.18e-07/1.64e-08  (hdiv rms 6.82e-07/2.45e-06); 100 m R filt/orig 3.94e-07/3.94e-09
+[W1.5] t=24 residual rms (surface layer) filt/orig = 2.10e-07/1.59e-08  (hdiv rms 6.63e-07/2.50e-06); 100 m R filt/orig 4.17e-07/4.28e-09
+[W1.5] t=25 residual rms (surface layer) filt/orig = 2.06e-07/1.55e-08  (hdiv rms 6.37e-07/2.45e-06); 100 m R filt/orig 3.82e-07/4.87e-09
+[W1.5] t=26 residual rms (surface layer) filt/orig = 2.07e-07/2.00e-08  (hdiv rms 6.58e-07/2.49e-06); 100 m R filt/orig 4.92e-07/4.96e-09
+[W1.5] t=27 residual rms (surface layer) filt/orig = 1.86e-07/1.98e-08  (hdiv rms 6.84e-07/2.55e-06); 100 m R filt/orig 5.24e-07/5.56e-09
+[W1.5] t=28 residual rms (surface layer) filt/orig = 1.78e-07/1.54e-08  (hdiv rms 6.61e-07/2.45e-06); 100 m R filt/orig 4.24e-07/4.37e-09
+[W1.5] t=29 residual rms (surface layer) filt/orig = 1.85e-07/1.82e-08  (hdiv rms 6.50e-07/2.38e-06); 100 m R filt/orig 3.95e-07/4.40e-09
+[W1.5] t=30 residual rms (surface layer) filt/orig = 2.12e-07/1.56e-08  (hdiv rms 6.43e-07/2.43e-06); 100 m R filt/orig 4.31e-07/4.17e-09
+[W1.5] DONE total 13.3 min
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27467278
+* JobName          : v3w_W1.5                                          
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50118 (1)                                                
+* Submit date      : 2026-09-15T10:54:26
+* Start time       : 2026-09-15T10:54:33
+* End time         : 2026-09-15T11:07:58
+* Elapsed time     : 00:13:25 (Timelimit=02:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/
+*                    run_filter.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch            0.037
+* extern | extern           0.037                       ()
+* ------------------------------------------------------------------------------
+

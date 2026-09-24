@@ -1,0 +1,30 @@
+k=0 ORIG clean=3.28e-10 all=1.49e-08 (0s)
+k=0 W1.5 clean=2.37e-10 all=1.95e-07 (0s)
+k=0 W2.0 clean=3.01e-10 all=1.81e-07 (0s)
+k=0 W2.5 clean=4.19e-10 all=1.66e-07 (0s)
+k=0 R2Ld clean=8.93e-10 all=1.71e-07 (0s)
+k=0 R3Ld clean=2.43e-09 all=1.58e-07 (0s)
+k=22 ORIG clean=3.23e-11 all=2.15e-10 (2s)
+k=22 W1.5 clean=2.91e-11 all=2.43e-07 (6s)
+k=22 W2.0 clean=3.66e-11 all=2.19e-07 (6s)
+k=22 W2.5 clean=9.06e-11 all=1.96e-07 (5s)
+k=22 R2Ld clean=4.39e-10 all=2.19e-07 (5s)
+k=22 R3Ld clean=1.51e-09 all=1.97e-07 (5s)
+k=33 ORIG clean=3.08e-11 all=5.72e-11 (2s)
+k=33 W1.5 clean=3.93e-11 all=7.51e-08 (9s)
+k=33 W2.0 clean=4.01e-11 all=6.72e-08 (5s)
+k=33 W2.5 clean=4.60e-11 all=6.01e-08 (6s)
+k=33 R2Ld clean=1.20e-10 all=7.31e-08 (5s)
+k=33 R3Ld clean=3.68e-10 all=6.62e-08 (6s)
+amazon ORIG 253500.2422068027 53962.18521391257
+amazon W1.5 480400.49122527963 532645.1171201552
+amazon W2.0 484897.0249413475 640033.349219101
+amazon W2.5 480195.7901894602 698483.858212529
+amazon R2Ld 424426.2915215122 746788.91949189
+amazon R3Ld 311652.0534226441 700995.8421065928
+amazon GLORYS_W_free_surface 0.07023841828281259 0.2378355664726449
+ORIG {'region_70W30W_5S30N:coast<=3': 7.48596627476431e-06, 'region_70W30W_5S30N:coast_4_15': 4.576607813389682e-06, 'region_70W30W_5S30N:coast>15': 1.7432130630516865e-06, 'region_70W30W_5S30N:first_wet_cell': 6.7520453919362254e-06, 'whole_domain:coast<=3': 6.502335566141671e-06, 'whole_domain:coast_4_15': 3.403421148909672e-06, 'whole_domain:coast>15': 1.6219437112090775e-06, 'whole_domain:first_wet_cell': 6.445155842994611e-06}
+v1_componentwise {'region_70W30W_5S30N:coast<=3': 1.11438877084454e-05, 'region_70W30W_5S30N:coast_4_15': 5.819958304385906e-07, 'region_70W30W_5S30N:coast>15': 4.205542876941288e-07, 'region_70W30W_5S30N:first_wet_cell': 1.9945909509209204e-05, 'whole_domain:coast<=3': 7.79202020896634e-06, 'whole_domain:coast_4_15': 5.642620703786761e-07, 'whole_domain:coast>15': 4.751604265599371e-07, 'whole_domain:first_wet_cell': 1.399492458350835e-05}
+v2_btcorr {'region_70W30W_5S30N:coast<=3': 8.972209491121777e-07, 'region_70W30W_5S30N:coast_4_15': 7.236806104195781e-07, 'region_70W30W_5S30N:coast>15': 4.23306511673379e-07, 'region_70W30W_5S30N:first_wet_cell': 7.550762793679273e-07, 'whole_domain:coast<=3': 8.451716542869939e-07, 'whole_domain:coast_4_15': 6.609958063196247e-07, 'whole_domain:coast>15': 4.962534823580575e-07, 'whole_domain:first_wet_cell': 6.981875499198906e-07}
+v3 {'region_70W30W_5S30N:coast<=3': 7.885295139997563e-07, 'region_70W30W_5S30N:coast_4_15': 5.944353358584877e-07, 'region_70W30W_5S30N:coast>15': 4.1998407692801056e-07, 'region_70W30W_5S30N:first_wet_cell': 8.665782699220705e-07, 'whole_domain:coast<=3': 7.88501072215412e-07, 'whole_domain:coast_4_15': 5.90639297507937e-07, 'whole_domain:coast>15': 4.966594627130603e-07, 'whole_domain:first_wet_cell': 8.639124514297279e-07}
+done 281.49277544021606

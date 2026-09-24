@@ -1,0 +1,166 @@
+name, memory.total [MiB]
+NVIDIA A100-SXM4-80GB, 81920 MiB
+[W2.5] U level  0 nwet= 423813 its= 165 read=  0.7s filter=  6.06s write=  1.5s
+[W2.5] U level  1 nwet= 423813 its= 165 read=  0.2s filter=  3.79s write=  2.9s
+[W2.5] U level  2 nwet= 423813 its= 165 read=  0.2s filter=  3.79s write=  3.9s
+[W2.5] U level  3 nwet= 423813 its= 165 read=  0.3s filter=  3.79s write=  5.0s
+[W2.5] U level  4 nwet= 423813 its= 165 read=  0.6s filter=  3.78s write=  6.0s
+[W2.5] U level  5 nwet= 423813 its= 165 read=  0.7s filter=  3.78s write=  2.2s
+[W2.5] U level  6 nwet= 418888 its= 165 read=  0.5s filter=  3.74s write=  2.9s
+[W2.5] U level  7 nwet= 417825 its= 165 read=  0.5s filter=  3.73s write=  4.0s
+[W2.5] U level  8 nwet= 417274 its= 165 read=  0.4s filter=  3.73s write=  5.1s
+[W2.5] U level  9 nwet= 416378 its= 165 read=  0.4s filter=  3.71s write=  6.1s
+[W2.5] U level 10 nwet= 415102 its= 165 read=  1.0s filter=  3.72s write=  2.2s
+[W2.5] U level 11 nwet= 414160 its= 165 read=  0.4s filter=  3.69s write=  2.9s
+[W2.5] U level 12 nwet= 412755 its= 165 read=  0.6s filter=  3.68s write=  4.1s
+[W2.5] U level 13 nwet= 411146 its= 165 read=  0.2s filter=  3.67s write=  5.0s
+[W2.5] U level 14 nwet= 409616 its= 165 read=  0.7s filter=  3.66s write=  6.0s
+[W2.5] U level 15 nwet= 408181 its= 165 read=  1.1s filter=  3.65s write=  2.2s
+[W2.5] U level 16 nwet= 406409 its= 165 read=  0.6s filter=  3.63s write=  2.9s
+[W2.5] U level 17 nwet= 404784 its= 165 read=  0.5s filter=  3.62s write=  3.9s
+[W2.5] U level 18 nwet= 403086 its= 165 read=  0.6s filter=  3.59s write=  5.0s
+[W2.5] U level 19 nwet= 401552 its= 165 read=  0.5s filter=  3.59s write=  6.1s
+[W2.5] U level 20 nwet= 399899 its= 165 read=  1.0s filter=  3.58s write=  2.2s
+[W2.5] U level 21 nwet= 398392 its= 165 read=  0.5s filter=  3.56s write=  2.8s
+[W2.5] U level 22 nwet= 397111 its= 166 read=  0.5s filter=  3.57s write=  3.8s
+[W2.5] U level 23 nwet= 396138 its= 166 read=  0.6s filter=  3.56s write=  4.9s
+[W2.5] U level 24 nwet= 395206 its= 166 read=  0.7s filter=  3.54s write=  5.9s
+[W2.5] U level 25 nwet= 394195 its= 166 read=  0.6s filter=  3.55s write=  2.3s
+[W2.5] U level 26 nwet= 393134 its= 166 read=  0.7s filter=  3.53s write=  2.9s
+[W2.5] U level 27 nwet= 392331 its= 166 read=  0.2s filter=  3.53s write=  3.8s
+[W2.5] U level 28 nwet= 391528 its= 166 read=  0.4s filter=  3.52s write=  4.8s
+[W2.5] U level 29 nwet= 390752 its= 166 read=  0.4s filter=  3.52s write=  5.8s
+[W2.5] U level 30 nwet= 389802 its= 166 read=  0.6s filter=  3.51s write=  2.2s
+[W2.5] U level 31 nwet= 388724 its= 166 read=  0.5s filter=  3.50s write=  2.8s
+[W2.5] U level 32 nwet= 387387 its= 166 read=  0.7s filter=  3.49s write=  3.8s
+[W2.5] U level 33 nwet= 385855 its= 166 read=  0.2s filter=  3.48s write=  4.8s
+[W2.5] U level 34 nwet= 383706 its= 166 read=  0.2s filter=  3.45s write=  5.8s
+[W2.5] U level 35 nwet= 381162 its= 166 read=  0.2s filter=  3.46s write=  2.2s
+[W2.5] U level 36 nwet= 377944 its= 166 read=  0.2s filter=  3.40s write=  2.7s
+[W2.5] U level 37 nwet= 374100 its= 167 read=  0.7s filter=  3.38s write=  3.7s
+[W2.5] U level 38 nwet= 369696 its= 167 read=  0.6s filter=  3.39s write=  4.7s
+[W2.5] U level 39 nwet= 364524 its= 167 read=  0.6s filter=  3.35s write=  5.7s
+[W2.5] U level 40 nwet= 358461 its= 167 read=  0.5s filter=  3.25s write=  2.1s
+[W2.5] U level 41 nwet= 351093 its= 167 read=  0.4s filter=  3.18s write=  2.6s
+[W2.5] U level 42 nwet= 340208 its= 167 read=  0.6s filter=  3.08s write=  3.6s
+[W2.5] U level 43 nwet= 323353 its= 167 read=  0.7s filter=  2.96s write=  4.5s
+[W2.5] U level 44 nwet= 294338 its= 167 read=  0.8s filter=  2.67s write=  5.3s
+[W2.5] U level 45 nwet= 253172 its= 167 read=  0.8s filter=  2.34s write=  1.9s
+[W2.5] U level 46 nwet= 205542 its= 167 read=  1.1s filter=  1.88s write=  2.1s
+[W2.5] U level 47 nwet= 148778 its= 166 read=  1.1s filter=  1.38s write=  2.6s
+[W2.5] U level 48 nwet=  83476 its= 165 read=  1.5s filter=  0.75s write=  2.9s
+[W2.5] U level 49 nwet=      0 its=   0 read=  1.4s filter=  0.02s write=  3.0s
+[W2.5] V level  0 nwet= 423813 its= 166 read=  1.6s filter=  3.79s write=  1.4s
+[W2.5] V level  1 nwet= 423813 its= 166 read=  0.2s filter=  3.79s write=  2.9s
+[W2.5] V level  2 nwet= 423813 its= 166 read=  0.2s filter=  3.78s write=  4.0s
+[W2.5] V level  3 nwet= 423813 its= 166 read=  0.2s filter=  3.79s write=  5.2s
+[W2.5] V level  4 nwet= 423813 its= 166 read=  0.2s filter=  3.81s write=  6.5s
+[W2.5] V level  5 nwet= 423813 its= 166 read=  0.2s filter=  3.81s write=  2.3s
+[W2.5] V level  6 nwet= 418968 its= 166 read=  0.2s filter=  3.75s write=  2.9s
+[W2.5] V level  7 nwet= 417901 its= 166 read=  0.2s filter=  3.74s write=  4.1s
+[W2.5] V level  8 nwet= 417355 its= 166 read=  0.2s filter=  3.73s write=  5.2s
+[W2.5] V level  9 nwet= 416436 its= 166 read=  0.2s filter=  3.74s write=  6.2s
+[W2.5] V level 10 nwet= 415193 its= 166 read=  0.2s filter=  3.71s write=  2.3s
+[W2.5] V level 11 nwet= 414250 its= 166 read=  0.2s filter=  3.70s write=  2.9s
+[W2.5] V level 12 nwet= 412852 its= 166 read=  0.2s filter=  3.69s write=  4.0s
+[W2.5] V level 13 nwet= 411263 its= 166 read=  0.2s filter=  3.68s write=  5.1s
+[W2.5] V level 14 nwet= 409743 its= 166 read=  0.2s filter=  3.69s write=  6.4s
+[W2.5] V level 15 nwet= 408303 its= 166 read=  0.2s filter=  3.67s write=  2.3s
+[W2.5] V level 16 nwet= 406495 its= 166 read=  0.2s filter=  3.64s write=  2.9s
+[W2.5] V level 17 nwet= 404864 its= 166 read=  0.2s filter=  3.62s write=  4.0s
+[W2.5] V level 18 nwet= 403176 its= 166 read=  0.2s filter=  3.61s write=  5.0s
+[W2.5] V level 19 nwet= 401640 its= 166 read=  0.2s filter=  3.62s write=  6.1s
+[W2.5] V level 20 nwet= 399967 its= 166 read=  0.2s filter=  3.63s write=  2.2s
+[W2.5] V level 21 nwet= 398475 its= 166 read=  0.2s filter=  3.57s write=  2.8s
+[W2.5] V level 22 nwet= 397205 its= 166 read=  0.2s filter=  3.56s write=  3.9s
+[W2.5] V level 23 nwet= 396220 its= 166 read=  0.2s filter=  3.56s write=  5.1s
+[W2.5] V level 24 nwet= 395296 its= 166 read=  0.2s filter=  3.57s write=  6.2s
+[W2.5] V level 25 nwet= 394322 its= 166 read=  0.2s filter=  3.55s write=  2.2s
+[W2.5] V level 26 nwet= 393209 its= 166 read=  0.2s filter=  3.53s write=  2.9s
+[W2.5] V level 27 nwet= 392383 its= 166 read=  0.2s filter=  3.51s write=  3.9s
+[W2.5] V level 28 nwet= 391584 its= 166 read=  0.2s filter=  3.51s write=  5.0s
+[W2.5] V level 29 nwet= 390797 its= 166 read=  1.0s filter=  3.51s write=  6.0s
+[W2.5] V level 30 nwet= 389863 its= 166 read=  0.2s filter=  3.51s write=  2.2s
+[W2.5] V level 31 nwet= 388772 its= 166 read=  0.2s filter=  3.48s write=  2.8s
+[W2.5] V level 32 nwet= 387428 its= 166 read=  0.2s filter=  3.48s write=  3.9s
+[W2.5] V level 33 nwet= 385874 its= 165 read=  0.2s filter=  3.44s write=  4.9s
+[W2.5] V level 34 nwet= 383693 its= 166 read=  0.2s filter=  3.45s write=  5.9s
+[W2.5] V level 35 nwet= 381161 its= 166 read=  0.2s filter=  3.43s write=  2.2s
+[W2.5] V level 36 nwet= 377934 its= 166 read=  0.2s filter=  3.38s write=  2.8s
+[W2.5] V level 37 nwet= 374016 its= 167 read=  0.2s filter=  3.38s write=  3.8s
+[W2.5] V level 38 nwet= 369584 its= 167 read=  0.2s filter=  3.33s write=  4.8s
+[W2.5] V level 39 nwet= 364421 its= 167 read=  0.2s filter=  3.29s write=  5.8s
+[W2.5] V level 40 nwet= 358340 its= 167 read=  0.2s filter=  3.24s write=  2.1s
+[W2.5] V level 41 nwet= 350879 its= 167 read=  0.2s filter=  3.18s write=  2.7s
+[W2.5] V level 42 nwet= 340078 its= 167 read=  0.2s filter=  3.07s write=  3.6s
+[W2.5] V level 43 nwet= 323024 its= 167 read=  0.2s filter=  2.95s write=  4.5s
+[W2.5] V level 44 nwet= 293514 its= 167 read=  0.2s filter=  2.67s write=  5.4s
+[W2.5] V level 45 nwet= 251634 its= 167 read=  0.2s filter=  2.30s write=  1.9s
+[W2.5] V level 46 nwet= 203726 its= 168 read=  0.2s filter=  1.89s write=  2.1s
+[W2.5] V level 47 nwet= 146911 its= 167 read=  0.2s filter=  1.35s write=  2.6s
+[W2.5] V level 48 nwet=  81660 its= 166 read=  0.2s filter=  0.73s write=  3.0s
+[W2.5] V level 49 nwet=      0 its=   0 read=  0.2s filter=  0.02s write=  3.1s
+[W2.5] W t= 0 surf hdiv rms filt/orig = 1.54e-06/2.28e-06
+[W2.5] W t= 1 surf hdiv rms filt/orig = 1.53e-06/2.25e-06
+[W2.5] W t= 2 surf hdiv rms filt/orig = 1.56e-06/2.33e-06
+[W2.5] W t= 3 surf hdiv rms filt/orig = 1.61e-06/2.38e-06
+[W2.5] W t= 4 surf hdiv rms filt/orig = 1.64e-06/2.36e-06
+[W2.5] W t= 5 surf hdiv rms filt/orig = 1.61e-06/2.30e-06
+[W2.5] W t= 6 surf hdiv rms filt/orig = 1.62e-06/2.32e-06
+[W2.5] W t= 7 surf hdiv rms filt/orig = 1.65e-06/2.41e-06
+[W2.5] W t= 8 surf hdiv rms filt/orig = 1.63e-06/2.41e-06
+[W2.5] W t= 9 surf hdiv rms filt/orig = 1.55e-06/2.33e-06
+[W2.5] W t=10 surf hdiv rms filt/orig = 1.50e-06/2.29e-06
+[W2.5] W t=11 surf hdiv rms filt/orig = 1.52e-06/2.30e-06
+[W2.5] W t=12 surf hdiv rms filt/orig = 1.49e-06/2.25e-06
+[W2.5] W t=13 surf hdiv rms filt/orig = 1.49e-06/2.24e-06
+[W2.5] W t=14 surf hdiv rms filt/orig = 1.46e-06/2.20e-06
+[W2.5] W t=15 surf hdiv rms filt/orig = 1.50e-06/2.25e-06
+[W2.5] W t=16 surf hdiv rms filt/orig = 1.39e-06/2.21e-06
+[W2.5] W t=17 surf hdiv rms filt/orig = 1.50e-06/2.21e-06
+[W2.5] W t=18 surf hdiv rms filt/orig = 1.50e-06/2.22e-06
+[W2.5] W t=19 surf hdiv rms filt/orig = 1.55e-06/2.26e-06
+[W2.5] W t=20 surf hdiv rms filt/orig = 1.61e-06/2.37e-06
+[W2.5] W t=21 surf hdiv rms filt/orig = 1.61e-06/2.33e-06
+[W2.5] W t=22 surf hdiv rms filt/orig = 1.64e-06/2.33e-06
+[W2.5] W t=23 surf hdiv rms filt/orig = 1.71e-06/2.45e-06
+[W2.5] W t=24 surf hdiv rms filt/orig = 1.71e-06/2.50e-06
+[W2.5] W t=25 surf hdiv rms filt/orig = 1.66e-06/2.45e-06
+[W2.5] W t=26 surf hdiv rms filt/orig = 1.70e-06/2.49e-06
+[W2.5] W t=27 surf hdiv rms filt/orig = 1.71e-06/2.55e-06
+[W2.5] W t=28 surf hdiv rms filt/orig = 1.70e-06/2.45e-06
+[W2.5] W t=29 surf hdiv rms filt/orig = 1.66e-06/2.38e-06
+[W2.5] W t=30 surf hdiv rms filt/orig = 1.58e-06/2.43e-06
+[W2.5] DONE total 17.8 min
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27460476
+* JobName          : impf_W2.5                                         
+* Account          : bk1450_gpu
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : gpu
+* QOS              : normal
+* Nodelist         : l50121 (1)                                                
+* Submit date      : 2026-09-15T00:38:48
+* Start time       : 2026-09-15T00:39:11
+* End time         : 2026-09-15T00:57:12
+* Elapsed time     : 00:18:01 (Timelimit=04:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/
+*                    run_filter.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch             0.03
+* extern | extern            0.03                       ()
+* ------------------------------------------------------------------------------
+

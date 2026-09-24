@@ -1,0 +1,22 @@
+{
+ "W2.0_U": {
+  "max_abs_diff": 5.960464477539063e-08,
+  "rms_filtered": 0.19030394895078948,
+  "nan_identical": true
+ },
+ "W2.0_V": {
+  "max_abs_diff": 5.960464477539063e-08,
+  "rms_filtered": 0.1279173415352285,
+  "nan_identical": true
+ },
+ "R2Ld_U": {
+  "max_abs_diff": 5.960464477539063e-08,
+  "rms_filtered": 0.18541342773616162,
+  "nan_identical": true
+ },
+ "R2Ld_V": {
+  "max_abs_diff": 5.960464477539063e-08,
+  "rms_filtered": 0.13122191493543695,
+  "nan_identical": true
+ }
+}

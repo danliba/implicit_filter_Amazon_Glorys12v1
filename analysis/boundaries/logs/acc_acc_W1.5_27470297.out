@@ -1,0 +1,127 @@
+[W1.5] U t=0 6s
+[W1.5] U t=1 11s
+[W1.5] U t=2 17s
+[W1.5] U t=3 22s
+[W1.5] U t=4 27s
+[W1.5] U t=5 32s
+[W1.5] U t=6 37s
+[W1.5] U t=7 42s
+[W1.5] U t=8 47s
+[W1.5] U t=9 53s
+[W1.5] U t=10 57s
+[W1.5] U t=11 62s
+[W1.5] U t=12 67s
+[W1.5] U t=13 73s
+[W1.5] U t=14 78s
+[W1.5] U t=15 83s
+[W1.5] U t=16 88s
+[W1.5] U t=17 93s
+[W1.5] U t=18 98s
+[W1.5] U t=19 103s
+[W1.5] U t=20 108s
+[W1.5] U t=21 113s
+[W1.5] U t=22 118s
+[W1.5] U t=23 123s
+[W1.5] U t=24 128s
+[W1.5] U t=25 133s
+[W1.5] U t=26 138s
+[W1.5] U t=27 144s
+[W1.5] U t=28 149s
+[W1.5] U t=29 154s
+[W1.5] U t=30 159s
+[W1.5] V t=0 6s
+[W1.5] V t=1 11s
+[W1.5] V t=2 16s
+[W1.5] V t=3 21s
+[W1.5] V t=4 26s
+[W1.5] V t=5 31s
+[W1.5] V t=6 36s
+[W1.5] V t=7 41s
+[W1.5] V t=8 46s
+[W1.5] V t=9 51s
+[W1.5] V t=10 53s
+[W1.5] V t=11 58s
+[W1.5] V t=12 63s
+[W1.5] V t=13 68s
+[W1.5] V t=14 72s
+[W1.5] V t=15 77s
+[W1.5] V t=16 81s
+[W1.5] V t=17 86s
+[W1.5] V t=18 91s
+[W1.5] V t=19 96s
+[W1.5] V t=20 101s
+[W1.5] V t=21 106s
+[W1.5] V t=22 111s
+[W1.5] V t=23 115s
+[W1.5] V t=24 120s
+[W1.5] V t=25 125s
+[W1.5] V t=26 130s
+[W1.5] V t=27 135s
+[W1.5] V t=28 140s
+[W1.5] V t=29 145s
+[W1.5] V t=30 150s
+[W1.5] W t=0 2s
+[W1.5] W t=1 5s
+[W1.5] W t=2 8s
+[W1.5] W t=3 10s
+[W1.5] W t=4 12s
+[W1.5] W t=5 15s
+[W1.5] W t=6 17s
+[W1.5] W t=7 19s
+[W1.5] W t=8 21s
+[W1.5] W t=9 23s
+[W1.5] W t=10 26s
+[W1.5] W t=11 28s
+[W1.5] W t=12 30s
+[W1.5] W t=13 32s
+[W1.5] W t=14 34s
+[W1.5] W t=15 36s
+[W1.5] W t=16 39s
+[W1.5] W t=17 41s
+[W1.5] W t=18 43s
+[W1.5] W t=19 45s
+[W1.5] W t=20 47s
+[W1.5] W t=21 49s
+[W1.5] W t=22 51s
+[W1.5] W t=23 54s
+[W1.5] W t=24 56s
+[W1.5] W t=25 58s
+[W1.5] W t=26 60s
+[W1.5] W t=27 62s
+[W1.5] W t=28 65s
+[W1.5] W t=29 67s
+[W1.5] W t=30 70s
+done W1.5
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27470297
+* JobName          : acc_W1.5                                          
+* Account          : bk1450
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : shared
+* QOS              : normal
+* Nodelist         : l40020 (1)                                                
+* Submit date      : 2026-09-15T13:15:04
+* Start time       : 2026-09-15T13:15:30
+* End time         : 2026-09-15T13:22:24
+* Elapsed time     : 00:06:54 (Timelimit=02:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/
+*                    boundaries/accumulate.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/
+*                    boundaries
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch             0.03
+* extern | extern            0.03                       ()
+* ------------------------------------------------------------------------------
+

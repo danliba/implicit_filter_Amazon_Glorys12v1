@@ -1,0 +1,39 @@
+WTA 109 181 9128.86959157588 9128.86959157588 {0: True, 22: True}
+  WTA k=0 ORIG KE(int)=4.3986e-02
+  WTA k=0 W1.5 KE(int)=3.1468e-02
+  WTA k=0 W2.0 KE(int)=2.6290e-02
+  WTA k=0 W2.5 KE(int)=2.1662e-02
+  WTA k=0 R2Ld KE(int)=2.1532e-02
+  WTA k=0 R3Ld KE(int)=1.2688e-02
+  WTA k=22 ORIG KE(int)=1.5967e-02
+  WTA k=22 W1.5 KE(int)=9.4145e-03
+  WTA k=22 W2.0 KE(int)=7.5502e-03
+  WTA k=22 W2.5 KE(int)=6.0493e-03
+  WTA k=22 R2Ld KE(int)=6.2361e-03
+  WTA k=22 R3Ld KE(int)=3.5676e-03
+STA 131 241 8513.781716269454 8512.258445124511 {0: True, 22: True}
+  STA k=0 ORIG KE(int)=5.3297e-03
+  STA k=0 W1.5 KE(int)=1.7007e-03
+  STA k=0 W2.0 KE(int)=1.1842e-03
+  STA k=0 W2.5 KE(int)=8.6180e-04
+  STA k=0 R2Ld KE(int)=2.8332e-03
+  STA k=0 R3Ld KE(int)=1.9676e-03
+  STA k=22 ORIG KE(int)=3.4283e-03
+  STA k=22 W1.5 KE(int)=1.2743e-03
+  STA k=22 W2.0 KE(int)=8.8058e-04
+  STA k=22 W2.5 KE(int)=6.2431e-04
+  STA k=22 R2Ld KE(int)=2.0692e-03
+  STA k=22 R3Ld KE(int)=1.4757e-03
+EQA 97 217 9258.901116573332 9258.901116573332 {0: True, 22: True}
+  EQA k=0 ORIG KE(int)=2.1637e-02
+  EQA k=0 W1.5 KE(int)=1.7002e-02
+  EQA k=0 W2.0 KE(int)=1.4947e-02
+  EQA k=0 W2.5 KE(int)=1.3018e-02
+  EQA k=0 R2Ld KE(int)=7.4024e-03
+  EQA k=0 R3Ld KE(int)=4.0135e-03
+  EQA k=22 ORIG KE(int)=3.0642e-02
+  EQA k=22 W1.5 KE(int)=2.1589e-02
+  EQA k=22 W2.0 KE(int)=1.7873e-02
+  EQA k=22 W2.5 KE(int)=1.4634e-02
+  EQA k=22 R2Ld KE(int)=6.7179e-03
+  EQA k=22 R3Ld KE(int)=3.0289e-03

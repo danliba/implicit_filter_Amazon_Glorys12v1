@@ -1,0 +1,31 @@
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/nbc_energy/large_scale.py:164: RuntimeWarning: divide by zero encountered in divide
+  zf = (z[t] / f)
+/work/bk1450/b383184/Amazon/Mercator/implicit_run/analysis/nbc_energy/large_scale.py:187: RuntimeWarning: divide by zero encountered in divide
+  pc = ax.pcolormesh(lon, lat, z[t] / f, vmin=-0.6, vmax=0.6, cmap="RdBu_r", shading="auto")
+ORIG rings day 1 [(np.float64(-50.6), np.float64(6.8), 244), (np.float64(-54.9), np.float64(9.0), 204)]
+ORIG rings day 15 [(np.float64(-52.0), np.float64(8.2), 192), (np.float64(-57.1), np.float64(9.5), 216)]
+ORIG rings day 30 [(np.float64(-49.8), np.float64(6.8), 318), (np.float64(-55.1), np.float64(8.8), 152)]
+z0m W1.5 {'retroflection_52W-42W_3N-10N': (0.993, 0.134), 'NECC_40W-20W_4N-10N': (0.993, 0.166), 'NEC_60W-30W_10N-20N': (0.955, 0.231), 'box_70W-30W_5S-30N': (0.981, 0.183)}
+z0m W2.0 {'retroflection_52W-42W_3N-10N': (0.988, 0.187), 'NECC_40W-20W_4N-10N': (0.987, 0.239), 'NEC_60W-30W_10N-20N': (0.924, 0.295), 'box_70W-30W_5S-30N': (0.97, 0.23)}
+z0m W2.5 {'retroflection_52W-42W_3N-10N': (0.981, 0.239), 'NECC_40W-20W_4N-10N': (0.979, 0.311), 'NEC_60W-30W_10N-20N': (0.888, 0.347), 'box_70W-30W_5S-30N': (0.959, 0.272)}
+z0m R2Ld {'retroflection_52W-42W_3N-10N': (0.975, 0.289), 'NECC_40W-20W_4N-10N': (0.968, 0.365), 'NEC_60W-30W_10N-20N': (0.96, 0.223), 'box_70W-30W_5S-30N': (0.963, 0.262)}
+z0m R3Ld {'retroflection_52W-42W_3N-10N': (0.945, 0.423), 'NECC_40W-20W_4N-10N': (0.935, 0.534), 'NEC_60W-30W_10N-20N': (0.913, 0.318), 'box_70W-30W_5S-30N': (0.933, 0.353)}
+z92m W1.5 {'retroflection_52W-42W_3N-10N': (0.984, 0.207), 'NECC_40W-20W_4N-10N': (0.984, 0.218), 'NEC_60W-30W_10N-20N': (0.965, 0.313), 'box_70W-30W_5S-30N': (0.985, 0.201)}
+z92m W2.0 {'retroflection_52W-42W_3N-10N': (0.975, 0.269), 'NECC_40W-20W_4N-10N': (0.972, 0.297), 'NEC_60W-30W_10N-20N': (0.941, 0.405), 'box_70W-30W_5S-30N': (0.975, 0.264)}
+z92m W2.5 {'retroflection_52W-42W_3N-10N': (0.966, 0.328), 'NECC_40W-20W_4N-10N': (0.959, 0.367), 'NEC_60W-30W_10N-20N': (0.914, 0.481), 'box_70W-30W_5S-30N': (0.964, 0.323)}
+z92m R2Ld {'retroflection_52W-42W_3N-10N': (0.957, 0.39), 'NECC_40W-20W_4N-10N': (0.951, 0.411), 'NEC_60W-30W_10N-20N': (0.969, 0.304), 'box_70W-30W_5S-30N': (0.953, 0.389)}
+z92m R3Ld {'retroflection_52W-42W_3N-10N': (0.926, 0.536), 'NECC_40W-20W_4N-10N': (0.914, 0.554), 'NEC_60W-30W_10N-20N': (0.933, 0.44), 'box_70W-30W_5S-30N': (0.905, 0.534)}
+LS z0m W1.5 {'pattern_corr': 1.0, 'rms_diff_ms': 0.002, 'rel_rms_diff': 0.01, 'mean_u_orig': -0.115, 'mean_u_filt': -0.115, 'mean_v_orig': 0.041, 'mean_v_filt': 0.04, 'removed_mean_KE_in_large_scales_frac': 0.001}
+LS z0m W2.0 {'pattern_corr': 1.0, 'rms_diff_ms': 0.002, 'rel_rms_diff': 0.015, 'mean_u_orig': -0.115, 'mean_u_filt': -0.115, 'mean_v_orig': 0.041, 'mean_v_filt': 0.041, 'removed_mean_KE_in_large_scales_frac': 0.002}
+LS z0m W2.5 {'pattern_corr': 1.0, 'rms_diff_ms': 0.004, 'rel_rms_diff': 0.022, 'mean_u_orig': -0.115, 'mean_u_filt': -0.115, 'mean_v_orig': 0.041, 'mean_v_filt': 0.041, 'removed_mean_KE_in_large_scales_frac': 0.003}
+LS z0m R2Ld {'pattern_corr': 0.999, 'rms_diff_ms': 0.006, 'rel_rms_diff': 0.038, 'mean_u_orig': -0.115, 'mean_u_filt': -0.115, 'mean_v_orig': 0.041, 'mean_v_filt': 0.041, 'removed_mean_KE_in_large_scales_frac': 0.008}
+LS z0m R3Ld {'pattern_corr': 0.996, 'rms_diff_ms': 0.011, 'rel_rms_diff': 0.07, 'mean_u_orig': -0.115, 'mean_u_filt': -0.115, 'mean_v_orig': 0.041, 'mean_v_filt': 0.041, 'removed_mean_KE_in_large_scales_frac': 0.015}
+LS z92m W1.5 {'pattern_corr': 0.999, 'rms_diff_ms': 0.002, 'rel_rms_diff': 0.035, 'mean_u_orig': -0.011, 'mean_u_filt': -0.011, 'mean_v_orig': -0.001, 'mean_v_filt': -0.001, 'removed_mean_KE_in_large_scales_frac': 0.002}
+LS z92m W2.0 {'pattern_corr': 0.999, 'rms_diff_ms': 0.003, 'rel_rms_diff': 0.057, 'mean_u_orig': -0.011, 'mean_u_filt': -0.012, 'mean_v_orig': -0.001, 'mean_v_filt': -0.001, 'removed_mean_KE_in_large_scales_frac': 0.003}
+LS z92m W2.5 {'pattern_corr': 0.997, 'rms_diff_ms': 0.004, 'rel_rms_diff': 0.082, 'mean_u_orig': -0.011, 'mean_u_filt': -0.012, 'mean_v_orig': -0.001, 'mean_v_filt': -0.001, 'removed_mean_KE_in_large_scales_frac': 0.004}
+LS z92m R2Ld {'pattern_corr': 0.992, 'rms_diff_ms': 0.007, 'rel_rms_diff': 0.148, 'mean_u_orig': -0.011, 'mean_u_filt': -0.012, 'mean_v_orig': -0.001, 'mean_v_filt': -0.001, 'removed_mean_KE_in_large_scales_frac': 0.009}
+LS z92m R3Ld {'pattern_corr': 0.979, 'rms_diff_ms': 0.012, 'rel_rms_diff': 0.232, 'mean_u_orig': -0.011, 'mean_u_filt': -0.013, 'mean_v_orig': -0.001, 'mean_v_filt': -0.001, 'removed_mean_KE_in_large_scales_frac': 0.011}
+ring counts {'ORIG': 3.3225806451612905, 'W1.5': 2.193548387096774, 'W2.0': 1.967741935483871, 'W2.5': 1.6774193548387097, 'R2Ld': 2.096774193548387, 'R3Ld': 1.2258064516129032}
+1993-01-01 -54.9 9.0 204 {'ORIG': (1.0, 1.0, True), 'W1.5': (0.77, 0.76, True), 'W2.0': (0.68, 0.66, True), 'W2.5': (0.6, 0.57, True), 'R2Ld': (0.7, 0.67, True), 'R3Ld': (0.55, 0.51, True)}
+1993-01-15 -57.1 9.5 216 {'ORIG': (1.0, 1.0, True), 'W1.5': (0.76, 0.77, True), 'W2.0': (0.67, 0.68, True), 'W2.5': (0.58, 0.6, False), 'R2Ld': (0.69, 0.7, True), 'R3Ld': (0.53, 0.56, False)}
+1993-01-30 -49.8 6.8 318 {'ORIG': (1.0, 1.0, True), 'W1.5': (0.74, 0.8, True), 'W2.0': (0.66, 0.7, True), 'W2.5': (0.6, 0.62, True), 'R2Ld': (0.59, 0.58, True), 'R3Ld': (0.45, 0.41, True)}
