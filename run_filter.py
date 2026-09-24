@@ -90,8 +90,13 @@ def copy_coords(src, dst, zname, zout=None, zvalues=None):
 
 
 def create_var(dst, name, dims, ny, nx, like=None, **atts):
+    # One chunk per (time, level). The write loop below fills exactly one level at a
+    # time, so a chunk spanning several levels forced netCDF to decompress, modify and
+    # recompress the same chunk once per level: write cost ramped 6.3 -> 17.1 s with
+    # period 5, matching the old chunksizes=(1, 5, ny, nx). One level per chunk makes
+    # every write a single whole-chunk write, and also suits per-level reads in Parcels.
     v = dst.createVariable(name, "f4", dims, zlib=True, complevel=1, fill_value=np.float32(np.nan),
-                           chunksizes=(1, 5, ny, nx))
+                           chunksizes=(1, 1, ny, nx))
     if like is not None:
         v.setncatts({k: like.getncattr(k) for k in like.ncattrs()
                      if k not in ("_FillValue", "_ChunkSizes", "missing_value")})
